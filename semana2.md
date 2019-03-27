@@ -5,9 +5,8 @@ title: "Semana 2: Estado de Arte"
 <div class="introduction">
   <h1>Semana 2: Estado de Arte</h1>
 
-Frente a un paciente con quemadura será muy importante determinar el contexto en que ocurrió la quemadura, tomando en cuenta en la historia clínica, el sitio del accidente y el agente causal, ya que pueden haber lesiones asociadas que comprometan la vida o que dejen secuelas luego de la reanimación al no ser sospechadas. Las quemaduras se clasifican en 4 grados dependiendo la profundidad y la severidad con que se penetró la superficie de la piel. Una misma zona del cuerpo puede tener quemaduras de diferentes grados.
+Frente a un paciente con quemadura será muy importante determinar el contexto en que ocurrió la quemadura, tomando en cuenta en la historia clínica, el sitio del accidente y el agente causal, ya que pueden haber lesiones asociadas que comprometan la vida o que dejen secuelas luego de la reanimación al no ser sospechadas. Las quemaduras se clasifican en 4 grados dependiendo la profundidad y la severidad con que se penetró la superficie de la piel. Una misma zona del cuerpo puede tener quemaduras de diferentes grados.<p>
 <p>
-
 - Quemaduras de primer grado (superficiales) 
 Las quemaduras de primer grado afectan únicamente la epidermis, o capa externa de la piel. El sitio de la quemadura es rojo, doloroso, seco y sin ampollas. Las quemaduras leves del sol son un ejemplo. Es raro el daño de largo plazo al tejido y generalmente consiste de un aumento o disminución del color de la piel.
 <p>
@@ -18,8 +17,8 @@ Las quemaduras de segundo grado involucran la epidermis y parte de la capa de la
 Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar el tejido subcutáneo. La quemadura puede verse blanca o carbonizada
 <p>
 - Quemaduras de cuarto grado. Las quemaduras de cuarto grado también dañan los huesos, músculos y tendones subyacentes. No hay sensación en el área, ya que las terminales nerviosas han sido destruidas.
-
-<b> La presoterapia, método estándar para el tratamiento de cicatrices </b>
+<p>
+<h2> La presoterapia, método estándar para el tratamiento de cicatrices </h2>
 <p>
 La presoterapia consiste en aplicar una cierta presión de manera continua sobre una cicatriz. Para obtener resultados óptimos la compresión mínima sobre la cicatriz debe de ser de 20 mmHG. Generalmente la compresión teórica debe llegar al límite de la presión capilar. Si se mantiene la presión constante a 24 mmHg permitimos a las fibras de colágeno realinear sus fibras en sentido paralelo a la par que disminuye la vascularidad y por lo tanto la síntesis exagerada de fibroblastos, de fibras reticulares y del colágeno, reduce los niveles de alfa-2 macroglobulina que favorece la acción de la colagenasa si tenemos más de 24 mmHg nos exponemos a un bloqueo del retorno venoso. 
 <p>
@@ -56,7 +55,7 @@ tr:nth-child(even) {
 </style>
 </head>
 <body>
-<h2>Tabla 1. Pacientes registrados en el Registro Global de Quemaduras en Perú</h2>
+<h2>Tabla 1. Pacientes registrados en el Registro Global de Quemaduras en Perú (OMS)</h2>
 <table>
   <tr>
     <th>Causa</th>
@@ -97,25 +96,25 @@ tr:nth-child(even) {
 
 </body>
 </html>
-Fuente: Registro Global de Quemaduras (OMS)
-
-En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(Ver Figura 3) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (OMS). 
+<p>
+En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(Ver Figura 3) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (OMS). <p>
+  
  <img src="http://i68.tinypic.com/qoeumw.png" alt="Italian Trulli">
 Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels para considerar la fuerza muscular, los valores obtenidos fueron los siguientes:
-
+<p>
 De acuerdo a la escala de Daniels (Ver figura 4):
 Manos: derecha 2+ , izquierda 3+ , sensibilidad y propiocepción sin alteraciones. 
 Codo izquierdo: extensión limitada por dolor, 90 grados.
 Pie derecho: Fuerza 1+, ligeramente péndulo o caído.
-
+<p>
 <img src="http://i66.tinypic.com/530okx.png" alt="Italian Trulli">
-
+<p>
 De acuerdo a la regla de Wallace,el paciente tiene 7.5% SCT quemada distribuida de siguiente manera: quemaduras de espesor total y parcial en dorso de manos y 2das falanges (2% SCT) , quemadura de espesor total , con acartonamiento de piel (escara) en codo izquierdo y antebrazo (0.5% SCT) , quemadura de espesor total en región posterior de pierna derecha (3%) y dorso proximal de pie derecho con quemaduras de III y IV grado (1% SCT). Además quemaduras de II y III grado en rostro (1% SCT). Sus funciones biológicas y vitales no parecen tener complicaciones.
-
+<p>
 Aparte se le aplicó el examen clínico de pinzado rodado para determinar el estado de percepción táctil anormal y dolor en las áreas afectadas (Disestesias y alodíneas respectivamente), los cuales fueron positivos.
-
+<p>
 Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
-
+<p>
 
 
 </div>
