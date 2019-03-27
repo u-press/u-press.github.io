@@ -1,11 +1,9 @@
 
 ---
 layout: default
-title: "Ed."
+title: "Semana 3"
 ---
 <div class="introduction">
-  <h1>hi.</h1>
-
 <p> </p>
 </div>
 <b>Figura 1. Tabla de Requerimientos </b>
