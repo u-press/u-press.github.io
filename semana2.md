@@ -29,11 +29,7 @@ siempre haciendo referencia a las prendas elásticas de compresión.
 Otro beneficio es combatir el dolor, el prurito y el edema. La compresión en las cicatrices actúa de distintas formas, se  encuentran tres teorías posibles de acción 2,6-8. La primera plantea la reducción de la síntesis de colágeno por disminución del flujo sanguíneo, oxígeno y nutrientes en la cicatriz. La segunda se basa en la descripción de la acción directa en la fase de remodelamiento alterando la liberación y actividad de la Metaloproteasa-28 generando disminución de la presencia de la proteína. La tercera el aumento de prostaglandina E2 que activa la colagenasa.
 <p>
 Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en quemaduras faciales en pacientes pediátricos durante la etapa aguda del tratamiento ni post-autoinjerto inmediato.En aquellas quemaduras que por su profundidad hayan requerido autoinjerto, la utilización de la presoterapia post-autoinjerto inmediato, se utiliza para dar protección mecánica al injerto y favorecer su integración, ya que evita cualquier tipo de cizallamiento.
-<p>
-<h2>Tratamientos actuales en contra de las quemaduras<h2>
-   <img src="http://i68.tinypic.com/28mcqhy.png" alt="Italian Trulli">
-                                                     
-                                                     
+ <p>                                                                                                         
 <html>
 <head>
 <style>
@@ -117,6 +113,8 @@ Aparte se le aplicó el examen clínico de pinzado rodado para determinar el est
 Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
 <p>
 
+<h2>Tratamientos actuales en contra de las quemaduras<h2>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPUKkHUSvQ9LXi4O-70lwuUFqSjJRGFPQUEkAGiBAQqxcunOAyHcn4cUhmt_KELyw2VyQA-PR0d13C/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 <hr>
