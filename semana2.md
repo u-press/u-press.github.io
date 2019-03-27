@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ed."
+title: "Semana 2: Estado de Arte"
 ---
 <div class="introduction">
   <h1>Semana 2: Estado de Arte</h1>
