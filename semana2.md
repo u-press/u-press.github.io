@@ -7,16 +7,16 @@ title: "Semana 2: Estado de Arte"
 
 Frente a un paciente con quemadura será muy importante determinar el contexto en que ocurrió la quemadura, tomando en cuenta en la historia clínica, el sitio del accidente y el agente causal, ya que pueden haber lesiones asociadas que comprometan la vida o que dejen secuelas luego de la reanimación al no ser sospechadas. Las quemaduras se clasifican en 4 grados dependiendo la profundidad y la severidad con que se penetró la superficie de la piel. Una misma zona del cuerpo puede tener quemaduras de diferentes grados.<p>
 <p>
-- Quemaduras de primer grado (superficiales) 
+<b>- Quemaduras de primer grado (superficiales) </b>
 Las quemaduras de primer grado afectan únicamente la epidermis, o capa externa de la piel. El sitio de la quemadura es rojo, doloroso, seco y sin ampollas. Las quemaduras leves del sol son un ejemplo. Es raro el daño de largo plazo al tejido y generalmente consiste de un aumento o disminución del color de la piel.
 <p>
-- Quemaduras de segundo grado (espesor parcial) 
+<b>- Quemaduras de segundo grado (espesor parcial) </b>
 Las quemaduras de segundo grado involucran la epidermis y parte de la capa de la dermis de la piel. El sitio de la quemadura se ve rojo, con ampollas y puede estar inflamado y ser doloroso. 
 <p>
-- Quemaduras de tercer grado (espesor total) 
+<b>- Quemaduras de tercer grado (espesor total) </b>
 Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar el tejido subcutáneo. La quemadura puede verse blanca o carbonizada
 <p>
-- Quemaduras de cuarto grado. Las quemaduras de cuarto grado también dañan los huesos, músculos y tendones subyacentes. No hay sensación en el área, ya que las terminales nerviosas han sido destruidas.
+<b>- Quemaduras de cuarto grado (Piel + Tejido adyacente) </b>. Las quemaduras de cuarto grado también dañan los huesos, músculos y tendones subyacentes. No hay sensación en el área, ya que las terminales nerviosas han sido destruidas.
 <p>
 <h2> La presoterapia, método estándar para el tratamiento de cicatrices </h2>
 <p>
@@ -30,7 +30,7 @@ Otro beneficio es combatir el dolor, el prurito y el edema. La compresión en la
 <p>
 Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en quemaduras faciales en pacientes pediátricos durante la etapa aguda del tratamiento ni post-autoinjerto inmediato.En aquellas quemaduras que por su profundidad hayan requerido autoinjerto, la utilización de la presoterapia post-autoinjerto inmediato, se utiliza para dar protección mecánica al injerto y favorecer su integración, ya que evita cualquier tipo de cizallamiento.
 <p>
-<Tratamientos actuales en contra de las quemaduras>
+<h2>Tratamientos actuales en contra de las quemaduras<h2>
    <img src="http://i68.tinypic.com/28mcqhy.png" alt="Italian Trulli">
                                                      
                                                      
@@ -100,6 +100,7 @@ tr:nth-child(even) {
 En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(Ver Figura 3) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (OMS). <p>
   
  <img src="http://i68.tinypic.com/qoeumw.png" alt="Italian Trulli">
+ <p>
 Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels para considerar la fuerza muscular, los valores obtenidos fueron los siguientes:
 <p>
 De acuerdo a la escala de Daniels (Ver figura 4):
@@ -117,7 +118,6 @@ Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioqu
 <p>
 
 
-</div>
 
 <hr>
 
