@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ed."
+title: "Semana 1: Problemática"
 ---
 <div class="introduction">
   
