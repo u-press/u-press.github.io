@@ -28,9 +28,13 @@ Otro beneficio es combatir el dolor, el prurito y el edema. La compresión en la
 Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en quemaduras faciales en pacientes pediátricos durante la etapa aguda del tratamiento ni post-autoinjerto inmediato.En aquellas quemaduras que por su profundidad hayan requerido autoinjerto, la utilización de la presoterapia post-autoinjerto inmediato, se utiliza para dar protección mecánica al injerto y favorecer su integración, ya que evita cualquier tipo de cizallamiento.
  <p>                                                 
    
-    <p align="center"> <h2>Tratamientos actuales en contra de las quemaduras<h2> <p> 
+   <h2>Tratamientos actuales en contra de las quemaduras<h2> 
   
   <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPUKkHUSvQ9LXi4O-70lwuUFqSjJRGFPQUEkAGiBAQqxcunOAyHcn4cUhmt_KELyw2VyQA-PR0d13C/pubhtml?widget=true&headers=false" width="1120" height="600"></iframe></p>
+  
+  <h2>Tratamientos actuales en contra de las quemaduras<h2> 
+  
+  <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqRn_EvJhdnTnW4rtBBhIFMB4zE2zZ9XjPk-wvBnmfFdc2PQsIWdtIwrommueFQ_JhekJa2Q8ZGuBc/pubhtml?widget=true&headers=false" width="1120" height="600"></iframe></p>
   
   
 <html>
