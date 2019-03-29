@@ -1,7 +1,4 @@
----
-layout: default
-title: "Semana 2: Estado de Arte"
----
+
 <div class="introduction">
   <p align="center"> <h1>Semana 2: Estado de Arte</h1><p>
 
