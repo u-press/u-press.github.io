@@ -1,3 +1,27 @@
+ <header id="header">
+    <div class="container-fluid">
+
+      <div id="logo" class="pull-left">
+        <h1><a href="#intro" class="scrollto">  U P R E S S</a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#intro">Inicio</a></li>
+          <li><a href="#team">Nosotros</a></li>
+          <li><a href="#portfolio">Documentación</a></li>
+          <!--==========================
+   Cortado servicios , equipo y drop down
+  ============================-->
+          <li><a href="#contact">Contacto</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+
+
 
 <div class="introduction">
   <p align="center"> <h1>Semana 2: Estado de Arte</h1><p>
