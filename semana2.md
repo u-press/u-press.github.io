@@ -3,7 +3,7 @@ layout: default
 title: "Semana 2: Estado de Arte"
 ---
 <div class="introduction">
-  <h1>Semana 2: Estado de Arte</h1>
+  <p align="center"> <h1>Semana 2: Estado de Arte</h1><p>
 
 Frente a un paciente con quemadura será muy importante determinar el contexto en que ocurrió la quemadura, tomando en cuenta en la historia clínica, el sitio del accidente y el agente causal, ya que pueden haber lesiones asociadas que comprometan la vida o que dejen secuelas luego de la reanimación al no ser sospechadas. Las quemaduras se clasifican en 4 grados dependiendo la profundidad y la severidad con que se penetró la superficie de la piel. Una misma zona del cuerpo puede tener quemaduras de diferentes grados.<p>
 <p>
@@ -31,7 +31,7 @@ Otro beneficio es combatir el dolor, el prurito y el edema. La compresión en la
 Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en quemaduras faciales en pacientes pediátricos durante la etapa aguda del tratamiento ni post-autoinjerto inmediato.En aquellas quemaduras que por su profundidad hayan requerido autoinjerto, la utilización de la presoterapia post-autoinjerto inmediato, se utiliza para dar protección mecánica al injerto y favorecer su integración, ya que evita cualquier tipo de cizallamiento.
  <p>                                                 
    
-   <h2>Tratamientos actuales en contra de las quemaduras<h2>
+    <p align="center"> <h2>Tratamientos actuales en contra de las quemaduras<h2> <p> 
   
   <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPUKkHUSvQ9LXi4O-70lwuUFqSjJRGFPQUEkAGiBAQqxcunOAyHcn4cUhmt_KELyw2VyQA-PR0d13C/pubhtml?widget=true&headers=false" width="1110" height="560"></iframe></p></div>
   
@@ -56,7 +56,7 @@ tr:nth-child(even) {
 }
 </style>
 </head>
-<body>
+ <p align="center"><body>
 <h2>Tabla 2. Pacientes registrados en el Registro Global de Quemaduras en Perú (OMS)</h2>
 <table>
   <tr>
@@ -96,12 +96,12 @@ tr:nth-child(even) {
   </tr>
 </table>
 
-</body>
+</body><p>
 </html>
 <p>
 En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(Ver Figura 3) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (OMS). <p>
   
- <img src="http://i68.tinypic.com/qoeumw.png" alt="Italian Trulli">
+  <p align="center"><img src="http://i68.tinypic.com/qoeumw.png" alt="Italian Trulli"><p>
  <p>
 Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels para considerar la fuerza muscular, los valores obtenidos fueron los siguientes:
 <p>
@@ -110,7 +110,7 @@ Manos: derecha 2+ , izquierda 3+ , sensibilidad y propiocepción sin alteracione
 Codo izquierdo: extensión limitada por dolor, 90 grados.
 Pie derecho: Fuerza 1+, ligeramente péndulo o caído.
 <p>
-<img src="http://i66.tinypic.com/530okx.png" alt="Italian Trulli">
+ <p align="center"><img src="http://i66.tinypic.com/530okx.png" alt="Italian Trulli"><p>
 <p>
 De acuerdo a la regla de Wallace,el paciente tiene 7.5% SCT quemada distribuida de siguiente manera: quemaduras de espesor total y parcial en dorso de manos y 2das falanges (2% SCT) , quemadura de espesor total , con acartonamiento de piel (escara) en codo izquierdo y antebrazo (0.5% SCT) , quemadura de espesor total en región posterior de pierna derecha (3%) y dorso proximal de pie derecho con quemaduras de III y IV grado (1% SCT). Además quemaduras de II y III grado en rostro (1% SCT). Sus funciones biológicas y vitales no parecen tener complicaciones.
 <p>
