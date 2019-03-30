@@ -35,7 +35,7 @@ Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en qu
   
   <h2>Tratamientos actuales en contra de las quemaduras<h2> 
   
-  <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqRn_EvJhdnTnW4rtBBhIFMB4zE2zZ9XjPk-wvBnmfFdc2PQsIWdtIwrommueFQ_JhekJa2Q8ZGuBc/pubhtml?widget=true&headers=false" width="1120" height="600"></iframe></p>
+  <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqRn_EvJhdnTnW4rtBBhIFMB4zE2zZ9XjPk-wvBnmfFdc2PQsIWdtIwrommueFQ_JhekJa2Q8ZGuBc/pubhtml?widget=true&headers=false" width="1120" height="700"></iframe></p>
   
   
 <html>
