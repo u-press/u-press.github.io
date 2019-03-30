@@ -120,16 +120,16 @@ Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioqu
 <p>
 
  <h2>Referencias<h2>
-  
-1. Condé-Green, A., Chung, T. L., Holton, L. H., Hui-Chou, H. G., Zhu, Y., Wang, H., . . . Singh, D. P. (2013b). Incisional Negative-Pressure Wound Therapy Versus Conventional Dressings Following Abdominal Wall Reconstruction. Annals of Plastic Surgery, 71(4), 394–397. https://doi.org/10.1097/sap.0b013e31824c9073
-2.Barnes, L. A., Marshall, C. D., Leavitt, T., Hu, M. S., Moore, A. L., Gonzalez, J. G., . . . Gurtner, G. C. (2018). Mechanical Forces in Cutaneous Wound Healing: Emerging Therapies to Minimize Scar Formation. Advances in Wound Care, 7(2), 47–56. https://doi.org/10.1089/wound.2016.0709
-3.	Singla, R., Abidi, S. M. S., Dar, A. I., & Acharya, A. (2019). Nanomaterials as potential and versatile platform for next generation tissue engineering applications. Journal of Biomedical Materials Research Part B: Applied Biomaterials, . https://doi.org/10.1002/jbm.b.34327
-4.	Cochrane Database Syst Rev 2013 Mar. (s.f.). Topical treatment and dressing of burns. Recuperado 26 marzo, 2019, de https://www.dynamed.com/topics/dmp%7EAN%7ET901805
-5.	Busch, K., Aliu, A., Walezko, N., & Aust, M. (2018). Medical Needling: Effect on Moisture and Transepidermal Water Loss of Mature Hypertrophic Burn Scars. Cureus, . https://doi.org/10.7759/cureus.2365
-6.	Busch, K., Aliu, A., Walezko, N., & Aust, M. (2018). Medical Needling: Effect on Moisture and Transepidermal Water Loss of Mature Hypertrophic Burn Scars. Cureus, . https://doi.org/10.7759/cureus.2365
-7.	Stekelenburg, C. M., Marck, R. E., Verhaegen, P. D. H. M., Marck, K. W., & Van Zuijlen, P. P. M. (2017). Perforator-based flaps for the treatment of burn scar contractures: a review. Burns & Trauma, 5(1). https://doi.org/10.1186/s41038-017-0071-2
-8.	Elmelegy, N. G., Hegazy, A. M., Sadaka, M. S., & Abdeldaim, D. E. (2018). Electrophotobiomodulation in the treatment of facial post-burn hypertrophic scars in pediatric patients. Annals of burns and fire disasters, 31(2), 127–132.
-9.	Anzarut, A., Olson, J., Singh, P., Rowe, B. H., & Tredget, E. E. (2009). The effectiveness of pressure garment therapy for the prevention of abnormal scarring after burn injury: a meta-analysis. Journal of Plastic, Reconstructive & Aesthetic Surgery, 62(1), 77–84. https://doi.org/10.1016/j.bjps.2007.10.052		
-10.	Hyland, E. J., D'Cruz, R., Menon, S., Harvey, J. G., La Hei, E., Lawrence, T., … Holland, A. J. (2018). Biobrane™ versus acticoat™ for the treatment of mid-dermal pediatric burns: a prospective randomized controlled pilot study. International journal of burns and trauma, 8(3), 63–67.		
+   <br>
+1. Condé-Green, A., Chung, T. L., Holton, L. H., Hui-Chou, H. G., Zhu, Y., Wang, H., . . . Singh, D. P. (2013b). Incisional Negative-Pressure Wound Therapy Versus Conventional Dressings Following Abdominal Wall Reconstruction. Annals of Plastic Surgery, 71(4), 394–397. https://doi.org/10.1097/sap.0b013e31824c9073 <br>
+2.Barnes, L. A., Marshall, C. D., Leavitt, T., Hu, M. S., Moore, A. L., Gonzalez, J. G., . . . Gurtner, G. C. (2018). Mechanical Forces in Cutaneous Wound Healing: Emerging Therapies to Minimize Scar Formation. Advances in Wound Care, 7(2), 47–56. https://doi.org/10.1089/wound.2016.0709 <br>
+3.	Singla, R., Abidi, S. M. S., Dar, A. I., & Acharya, A. (2019). Nanomaterials as potential and versatile platform for next generation tissue engineering applications. Journal of Biomedical Materials Research Part B: Applied Biomaterials, . https://doi.org/10.1002/jbm.b.34327 <br>
+4.	Cochrane Database Syst Rev 2013 Mar. (s.f.). Topical treatment and dressing of burns. Recuperado 26 marzo, 2019, de https://www.dynamed.com/topics/dmp%7EAN%7ET901805 <br>
+5.	Busch, K., Aliu, A., Walezko, N., & Aust, M. (2018). Medical Needling: Effect on Moisture and Transepidermal Water Loss of Mature Hypertrophic Burn Scars. Cureus, . https://doi.org/10.7759/cureus.2365 <br>
+6.	Busch, K., Aliu, A., Walezko, N., & Aust, M. (2018). Medical Needling: Effect on Moisture and Transepidermal Water Loss of Mature Hypertrophic Burn Scars. Cureus, . https://doi.org/10.7759/cureus.2365 <br>
+7.	Stekelenburg, C. M., Marck, R. E., Verhaegen, P. D. H. M., Marck, K. W., & Van Zuijlen, P. P. M. (2017). Perforator-based flaps for the treatment of burn scar contractures: a review. Burns & Trauma, 5(1). https://doi.org/10.1186/s41038-017-0071-2 <br>
+8.	Elmelegy, N. G., Hegazy, A. M., Sadaka, M. S., & Abdeldaim, D. E. (2018). Electrophotobiomodulation in the treatment of facial post-burn hypertrophic scars in pediatric patients. Annals of burns and fire disasters, 31(2), 127–132. <br>
+9.	Anzarut, A., Olson, J., Singh, P., Rowe, B. H., & Tredget, E. E. (2009). The effectiveness of pressure garment therapy for the prevention of abnormal scarring after burn injury: a meta-analysis. Journal of Plastic, Reconstructive & Aesthetic Surgery, 62(1), 77–84. https://doi.org/10.1016/j.bjps.2007.10.052	 <br>	
+10.	Hyland, E. J., D'Cruz, R., Menon, S., Harvey, J. G., La Hei, E., Lawrence, T., … Holland, A. J. (2018). Biobrane™ versus acticoat™ for the treatment of mid-dermal pediatric burns: a prospective randomized controlled pilot study. International journal of burns and trauma, 8(3), 63–67.		 <br>
 
 
