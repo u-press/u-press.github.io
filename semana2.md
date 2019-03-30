@@ -33,7 +33,7 @@ Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en qu
   
   <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPUKkHUSvQ9LXi4O-70lwuUFqSjJRGFPQUEkAGiBAQqxcunOAyHcn4cUhmt_KELyw2VyQA-PR0d13C/pubhtml?widget=true&headers=false" width="1120" height="600"></iframe></p> 
   
-  <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqRn_EvJhdnTnW4rtBBhIFMB4zE2zZ9XjPk-wvBnmfFdc2PQsIWdtIwrommueFQ_JhekJa2Q8ZGuBc/pubhtml?widget=true&headers=false" width="1800" height="700"></iframe></p>
+  <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqRn_EvJhdnTnW4rtBBhIFMB4zE2zZ9XjPk-wvBnmfFdc2PQsIWdtIwrommueFQ_JhekJa2Q8ZGuBc/pubhtml?widget=true&headers=false" width="1200" height="700"></iframe></p>
   
   
 <html>
