@@ -57,7 +57,7 @@ tr:nth-child(even) {
 </style>
 </head>
  <p align="center"><body>
-<h2>Tabla 2. Pacientes registrados en el Registro Global de Quemaduras en Perú (OMS)</h2>
+<h2>Tabla 3. Pacientes registrados en el Registro Global de Quemaduras en Perú (OMS)</h2>
 <table>
   <tr>
     <th>Causa</th>
@@ -97,7 +97,7 @@ tr:nth-child(even) {
 </table>
 
 </body><p>
-</html>
+
 <p>
 En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(Ver Figura 3) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (OMS). <p>
   
