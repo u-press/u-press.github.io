@@ -119,7 +119,7 @@ Aparte se le aplicó el examen clínico de pinzado rodado para determinar el est
 Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
 <p>
 
- <h2>Referencias<h2>
+ <h2>Referencias</h2>
    <br>
 1. Condé-Green, A., Chung, T. L., Holton, L. H., Hui-Chou, H. G., Zhu, Y., Wang, H., . . . Singh, D. P. (2013b). Incisional Negative-Pressure Wound Therapy Versus Conventional Dressings Following Abdominal Wall Reconstruction. Annals of Plastic Surgery, 71(4), 394–397. https://doi.org/10.1097/sap.0b013e31824c9073 <br>
 2.Barnes, L. A., Marshall, C. D., Leavitt, T., Hu, M. S., Moore, A. L., Gonzalez, J. G., . . . Gurtner, G. C. (2018). Mechanical Forces in Cutaneous Wound Healing: Emerging Therapies to Minimize Scar Formation. Advances in Wound Care, 7(2), 47–56. https://doi.org/10.1089/wound.2016.0709 <br>
