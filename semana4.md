@@ -1,27 +1,14 @@
----
-layout: default
-title: "Ed."
----
-<div class="introduction">
-  <h1>hi.</h1>
-
-<p>Ed is a <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> theme designed for textual editors based on <a href="http://go-dh.github.io/mincomp/">minimal computing principles</a>, and focused on legibility, durability, ease and flexibility. Our underlying technology is easy to learn and teach, and can produce beautifully rendered scholarly or reading editions of texts meant to last. To start using Ed, please see <a href="{{ site.baseurl }}/documentation/">our documentation</a> for installation instructions and more. To learn more about the ideas behind Ed and a list of current features see our <a href="{{ site.baseurl }}/about/">about</a> section. To see Ed in action, we've provided some sample minimal editions for you below.</p>
-</div>
-
-<hr>
-
-<div class="toc">
-  <h2>sample texts</h2>
-  <ul class="texts">
-  {% for item in site.texts %}
-  
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
+<h2> Boceto 1 </h2>
+<center>
+  <img src="images/b1.jpg" alt="" class="img-fluid img-rounded">
+</center>
+<h2> Boceto 2 </h2>
+<center>
+  <img src="images/b2.jpg" alt="" class="img-fluid img-rounded">
+</center>
+<h2> Boceto 3 </h2>
+<center>
+  <img src="images/b3.jpg" alt="" class="img-fluid img-rounded">
+</center>
 
 
