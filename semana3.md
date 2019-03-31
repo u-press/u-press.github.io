@@ -12,8 +12,8 @@
 <p>- https://all3dp.com/es/1/filamento-3d-filamento-impresora-3d/</p>
 <p>- https://www.nature.com/articles/srep40185</p>
 <p>(CITADO)</p>
-<p> Campos, Cristian (2006). Diseño de productos: diseño para todos los tamaños, XL, L, M, S. España: Maomao. Asensio, Oscar (2007).</p>
-<p>Productdesign. Barcelona: Reditar Libros. 52 Bramston, David (2010).</p>
-<p>De la idea al producto. Barcelona: Parramón. Feltrup, Sergio (2014).</p>
+<p> Campos, Cristian (2006). Diseño de productos: diseño para todos los tamaños, XL, L, M, S. España: Maomao.</p>
+<p> Asensio, Oscar (2007). Productdesign. Barcelona: Reditar Libros.</p>
+<p>52 Bramston, David (2010). De la idea al producto. Barcelona: Parramón.</p>
 
 
