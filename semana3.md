@@ -1,19 +1,9 @@
 
----
-layout: default
-title: "Semana 3"
----
 <div class="introduction">
-<p> </p>
-</div>
+<p align="center"> <h1>Semana 3: Tabla de Re</h1><p>
 <b>Figura 1. Tabla de Requerimientos </b>
- <img src="http://i67.tinypic.com/152bxup.jpg" alt="Italian Trulli">
-<hr>
+  <p align="center"><iframe src="hhttps://docs.google.com/spreadsheets/d/e/2PACX-1vTnMQiI3aoZJet5IcsBemyxRg107OLpUAt4nOf8TPXXybNCBAceM38Ez1IprZrt72SRgTtOWmn3oYSq/pubhtml?widget=true&headers=false" width="1400" height="700"></iframe></p> 
 
-<div class="toc">
-  <h2>sample texts</h2>
-  <ul class="texts">
-  {% for item in site.texts %}
   
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
