@@ -1,4 +1,23 @@
 <p align="center"> <h1>Semana 3: Tabla de Requerimientos</h1><p>
+   DESIGN THINKING
+   D1. EMPATIZAR
+   Cada uno de nosotros tuvo que leer acerca del paciente y ponerse en su lugar anotando todo lo que pensaba, sentía, decía, etc.
+   D2. MAPA DE EMPATÍA
+   Para esto nosotros dimos ideas para llenar el siguiente mapa
+   D3. IDENTIFICACIÓN PROBLEMAS
+   Cada uno de nosotros tenía que escribir personalmente en los post it entregados problemas que le podrían ocurrir a nuestro paciente.
+   D4. AGRUPACIÓN DE PROBLEMAS
+   En esta etapa cojimos todos los promlemas que escribimos en los posits y los agrupamos en 3 partes con ideas mas generales como se ve
+   en la gráfica.
+   D5. DEFINICIÓN DEL PROBLEMA
+   Luego de la agrupación que hicimos de los problemas definimos el problema como “PÉRDIDA DE INTEGRIDAD ESTÉTICO -FUNCIONAL”
+   D6. ANÁLISIS CAUSA RAÍZ
+   Una vez identificado el problema teníamos que llegar a la raíz y para eso debíamos preguntarnos el porqué del problema y así
+   sucesivamente con cada respuesta dada.
+   D7. IDEAR
+   Luego de haber decidido cuál es el problema comenzamos a dar posibles ideas de solución no importaba que tan locas fuesen.
+   D8. IDEACIÓN EVALUACIÓN
+   Para esta parte seleccionamos las ideas que eran más factibles y viables y llegamos a la conclusión siguiente.
 <b>Figura 1. Tabla de Requerimientos </b>
    <center>
   <img src="img/tablaR.jpg" alt="" class="img-fluid img-rounded">
