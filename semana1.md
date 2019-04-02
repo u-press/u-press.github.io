@@ -26,7 +26,7 @@ Resultados:El tiempo promedio de hospitalización para los quemados según su ex
 <p>
 <b>Figura 1. Causas frecuentes de quemaduras </b>
  <img src="http://i64.tinypic.com/2qbtbh1.png" alt="Italian Trulli">
-Fuente:
+Fuente:http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0376-78922017000100009
 <p>
 Las quemaduras constituyen importante problema de salud pública, se consideran segunda causa de muerte en menores de edad, ocupan el primer lugar de accidentes en el hogar, principalmente en familias vulnerables económicamente, y tienen repercusión social y económica. Para los Estados Unidos de América, en el 2010, el costo de hospitalización significó tres billones de dólares.
 
