@@ -23,12 +23,11 @@ En Latinoamérica, un promedio de 1351 casos de quemaduras requieren hospitaliza
  <img src="http://i65.tinypic.com/2hx155e.png" alt="Italian Trulli">
 Fuente:http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0376-78922017000100009
 <p>
-Las quemaduras constituyen importante problema de salud pública, se consideran segunda causa de muerte en menores de edad, ocupan el primer lugar de accidentes en el hogar, principalmente en familias vulnerables económicamente, y tienen repercusión social y económica. Para los Estados Unidos de América, en el 2010, el costo de hospitalización significó tres billones de dólares.
 
 <b>¿Qué son las quemaduras? </b>
 Una quemadura es una lesión a la piel u otro tejido orgánico causada principalmente por el calor o la radiación, la radioactividad, la electricidad, la fricción o el contacto con productos químicos.
  <p>
-<strong>Impacto de las quemaduras a nivel socioeconómico</strong>
+<b>Impacto de las quemaduras a nivel socioeconómico<br>
 El riesgo de sufrir quemaduras esta intimamente relacionado con la posición socio-economica. Esto se ve evidenciado no solo en Latinoámerica sino a nivel mundial (Organización Mundial de la Salud).
 <p>
 Los pacientes atendidos provienen en su mayoría de familias calificadas en sus consultorios de origen como indigentes. Por lo tanto, el acceso a la atención de salud está limitada a los recursos existentes en el barrio o la localidad de familias calificadas en sus consultorios de origen como de bajos recursos, ya que no siempre disponen de la atención especializada e integrada dirigida exclusiva al paciente (Pontificia Universidad Católica de Chile).
@@ -43,7 +42,6 @@ La sociedad actual ve la apariencia física como instrumento básico para alcanz
 Fuente:https://www.slideshare.net/KwinzyMaikaje/quemaduras-parte-2<br>
   
   
-</div>
 
 <hr>
 
