@@ -18,14 +18,39 @@
 <p>
 <b>D4. AGRUPACIÓN DE PROBLEMAS<br>
 <b>  - En esta etapa cojimos todos los promlemas que escribimos en los posits y los agrupamos en 3 partes con ideas mas generales como se ve en la gráfica.<br>
+ <p>
+ 
+<p><img src="http://i65.tinypic.com/35c0t28.png" alt="Italian Trulli"><p>
+
+<p>
 <b>D5. DEFINICIÓN DEL PROBLEMA<br>
 <b>  - Luego de la agrupación que hicimos de los problemas definimos el problema como “PÉRDIDA DE INTEGRIDAD ESTÉTICO -FUNCIONAL”.<br>
+ <p>
+ 
+<p><img src="http://i63.tinypic.com/azcv45.png" alt="Italian Trulli"><p>
+
+<p>
 <b>D6. ANÁLISIS CAUSA RAÍZ<br>
 <b>  - Una vez identificado el problema teníamos que llegar a la raíz y para eso debíamos preguntarnos el porqué del problema y así sucesivamente con cada respuesta dada.<br>
+ <p>
+ 
+<p><img src="http://i66.tinypic.com/33p92eq.png" alt="Italian Trulli"><p>
+
+<p>
 <b>D7. IDEAR<br>
 <b>  - Luego de haber decidido cuál es el problema comenzamos a dar posibles ideas de solución no importaba que tan locas fuesen.<br>
+  <p>
+ 
+<p><img src="http://i63.tinypic.com/2u8xxnd.png" alt="Italian Trulli"><p>
+
+<p>
 <b>D8. IDEACIÓN EVALUACIÓN<br>
 <b>  - Para esta parte seleccionamos las ideas que eran más factibles y viables y llegamos a la conclusión siguiente.<br>
+  <p>
+ 
+<p><img src="http://i67.tinypic.com/2im2o03.png" alt="Italian Trulli"><p>
+
+<p>
 <b>Figura 1. Tabla de Requerimientos </b>
    <center>
   <img src="img/tablaR.jpg" alt="" class="img-fluid img-rounded">
