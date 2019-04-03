@@ -11,10 +11,10 @@
 
 <b>D3. IDENTIFICACIÓN PROBLEMAS<b>
    
-<b>Cada uno de nosotros tenía que escribir personalmente en los post it entregados problemas que le podrían ocurrir a nuestro   paciente</b>
-   D4. AGRUPACIÓN DE PROBLEMAS
-   En esta etapa cojimos todos los promlemas que escribimos en los posits y los agrupamos en 3 partes con ideas mas generales como se ve
-   en la gráfica.
+<b>Cada uno de nosotros tenía que escribir personalmente en los post it entregados problemas que le podrían ocurrir a nuestro   paciente<br>
+<b>D4. AGRUPACIÓN DE PROBLEMAS<b>
+<b>En esta etapa cojimos todos los promlemas que escribimos en los posits y los agrupamos en 3 partes con ideas mas generales como se ve
+en la gráfica.</b>
    D5. DEFINICIÓN DEL PROBLEMA
    Luego de la agrupación que hicimos de los problemas definimos el problema como “PÉRDIDA DE INTEGRIDAD ESTÉTICO -FUNCIONAL”
    D6. ANÁLISIS CAUSA RAÍZ
