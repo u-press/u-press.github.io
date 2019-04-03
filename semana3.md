@@ -1,8 +1,10 @@
 <p align="center"> <h1>Semana 3: Tabla de Requerimientos</h1><p>
-<b>DESIGN THINKING <b>
+<b>DESIGN THINKING </b>
    
 <b>D1. EMPATIZAR <b>
+   
 <b>Cada uno de nosotros tuvo que leer acerca del paciente y ponerse en su lugar anotando todo lo que pensaba, sentía, decía, etc.</b>
+
    D2. MAPA DE EMPATÍA
    Para esto nosotros dimos ideas para llenar el siguiente mapa
    D3. IDENTIFICACIÓN PROBLEMAS
