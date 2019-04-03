@@ -1,16 +1,10 @@
 <p align="center"> <h1>Semana 3: Tabla de Requerimientos</h1><p>
-<b>DESIGN THINKING </b>
-   
+<b>DESIGN THINKING<br>
 <b>D1. EMPATIZAR<br>
-   
-<b>Cada uno de nosotros tuvo que leer acerca del paciente y ponerse en su lugar anotando todo lo que pensaba, sentía, decía, etc.</b>
-
-<b>D2. MAPA DE EMPATÍA<b>
-   
-<b>Para esto nosotros dimos ideas para llenar el siguiente mapa</b>
-
-<b>D3. IDENTIFICACIÓN PROBLEMAS<b>
-   
+<b>Cada uno de nosotros tuvo que leer acerca del paciente y ponerse en su lugar anotando todo lo que pensaba, sentía, decía, etc.<br>
+<b>D2. MAPA DE EMPATÍA<br>
+<b>Para esto nosotros dimos ideas para llenar el siguiente mapa<br>
+<b>D3. IDENTIFICACIÓN PROBLEMAS<br>
 <b>Cada uno de nosotros tenía que escribir personalmente en los post it entregados problemas que le podrían ocurrir a nuestro   paciente</b>
 <b>D4. AGRUPACIÓN DE PROBLEMAS<b>
 <b>En esta etapa cojimos todos los promlemas que escribimos en los posits y los agrupamos en 3 partes con ideas mas generales como se ve
