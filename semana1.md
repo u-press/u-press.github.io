@@ -13,11 +13,6 @@ title: "Semana 1: Problemática"
 <p>
 En Latinoamérica, un promedio de 1351 casos de quemaduras requieren hospitalización y alrededor de 23 mueren anualmente. En el Perú, específicamente en el 2013, se hospitalizaron 291 niños en el Instituto Nacional de Salud del Niño (INSN), en el cual 54% de ellos tenia cuatro años y 23 % de cinco a nueve años; el 70% sufrió quemaduras por caída de líquidos calientes sobre su cuerpo y 30% restante tuvo contacto directo con fuego. (Arredondo, 2016)
 <p>
-Estimar los costos directos para el proveedor de los servicios asociados al accidente por quemaduras en la fase aguda, discriminar los costos de acuerdo a la extensión del área quemada; y edad del paciente. Métodos: Es una Investigación cuantitativa, descriptiva y de corte transversal. La población está conformada por el conjunto de historias clínicas (94) de los pacientes quemados atendidos. Las funciones de producción se definieron en 3 fases, para cada tipo de atención o tratamiento. 
-<p>
-Resultados:El tiempo promedio de hospitalización para los quemados según su extensión fue 19,47 días; para medianos quemados 28,97 días y para los quemados de gran extensión fue 39,48 días. Los fallecidos no se consideraron en el estudio. Las complicaciones más frecuentes fueron infecciones de las heridas e infecciones pulmonares. Resultado del Análisis de varianza (ANOVA) el valor F , F=34,033 p<0,000. Esta probabilidad es menor que el nivel de significancia usual del 5% (9,217E-12<0,05), indicando que hay diferencia significativa entre las medias de los tres grupos de quemados. El costo medio por paciente pequeño, mediano y grande quemado son (227 97; 403 85; 589 34 nuevos soles - US$ 73.75; 130.65; 190.65 respectivamente). Los costos por autoinjerto son mayores en el grupo de quemados de gran extensión (3 306 65 nuevos soles – US$1070,2). Los costos por escarectomía van en aumento según la severidad del área de quemadura, pero no superan los costos del procedimiento autoinjerto. 
-
-
 <strong>¿Sabías qué?</strong>
 <p>
 -      En 2004, casi 11 millones de personas de todo el mundo sufrieron quemaduras lo suficientemente graves para requerir atención médica. (World Health Organization, 2018)
@@ -44,8 +39,8 @@ Las quemaduras severas causan discapacidad física, psicológica, social y labor
 La sociedad actual ve la apariencia física como instrumento básico para alcanzar el éxito social y laboral, y, es reforzado por los medios de comunicación. Sin embargo, muchas veces se confunde imagen corporal con apariencia física, la imagen corporal involucra el sentimiento que cada persona tiene en relación a su propio cuerpo, cualquier alteración en la imagen influye en la autoestima, trayendo como consecuencia un gran impacto psicológico y emocional colocando a la persona en situación de crisis con una alta vulnerabilidad psicológica. (Arredondo, 2016)
 <p>
 <b>Figura 2. Complicaciones de las quemaduras </b>
- <img src="http://i64.tinypic.com/qnpb8i.png" alt="Italian Trulli">
-Fuente:
+ <img src="http://i68.tinypic.com/jgth6e.png" alt="Italian Trulli">
+Fuente:https://www.slideshare.net/KwinzyMaikaje/quemaduras-parte-2<br>
   
   
 </div>
