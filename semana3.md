@@ -10,7 +10,7 @@
 <b>En esta etapa cojimos todos los promlemas que escribimos en los posits y los agrupamos en 3 partes con ideas mas generales como se ve
 en la gráfica.<br>
 <b>D5. DEFINICIÓN DEL PROBLEMA<br>
-<b>Luego de la agrupación que hicimos de los problemas definimos el problema como “PÉRDIDA DE INTEGRIDAD ESTÉTICO -FUNCIONAL”
+<b>Luego de la agrupación que hicimos de los problemas definimos el problema como “PÉRDIDA DE INTEGRIDAD ESTÉTICO -FUNCIONAL”.<br>
 <b>D6. ANÁLISIS CAUSA RAÍZ<br>
 <b>Una vez identificado el problema teníamos que llegar a la raíz y para eso debíamos preguntarnos el porqué del problema y así
    sucesivamente con cada respuesta dada.<br>
