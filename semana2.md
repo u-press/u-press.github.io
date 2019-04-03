@@ -4,17 +4,10 @@
   <p align="center"> <h1>Semana 2: Estado de Arte</h1><p>
 
 Frente a un paciente con quemadura será muy importante determinar el contexto en que ocurrió la quemadura, tomando en cuenta en la historia clínica, el sitio del accidente y el agente causal, ya que pueden haber lesiones asociadas que comprometan la vida o que dejen secuelas luego de la reanimación al no ser sospechadas. Las quemaduras se clasifican en 4 grados dependiendo la profundidad y la severidad con que se penetró la superficie de la piel. Una misma zona del cuerpo puede tener quemaduras de diferentes grados.<p>
-<p>
-<b>- Quemaduras de primer grado (superficiales) </b>
-Las quemaduras de primer grado afectan únicamente la epidermis, o capa externa de la piel. El sitio de la quemadura es rojo, doloroso, seco y sin ampollas. Las quemaduras leves del sol son un ejemplo. Es raro el daño de largo plazo al tejido y generalmente consiste de un aumento o disminución del color de la piel.
-<p>
-<b>- Quemaduras de segundo grado (espesor parcial) </b>
-Las quemaduras de segundo grado involucran la epidermis y parte de la capa de la dermis de la piel. El sitio de la quemadura se ve rojo, con ampollas y puede estar inflamado y ser doloroso. 
-<p>
-<b>- Quemaduras de tercer grado (espesor total) </b>
-Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar el tejido subcutáneo. La quemadura puede verse blanca o carbonizada
-<p>
-<b>- Quemaduras de cuarto grado (Piel + Tejido adyacente) </b>. Las quemaduras de cuarto grado también dañan los huesos, músculos y tendones subyacentes. No hay sensación en el área, ya que las terminales nerviosas han sido destruidas.
+  <p>
+ 
+<p><img src="http://i66.tinypic.com/2d18xn6.png" alt="Italian Trulli"><p>
+
 <p>
 <h2> La presoterapia, método estándar para el tratamiento de cicatrices </h2>
 <p>
