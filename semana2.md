@@ -7,7 +7,10 @@ Frente a un paciente con quemadura será muy importante determinar el contexto e
   <p>
  
 <p><img src="http://i66.tinypic.com/2d18xn6.png" alt="Italian Trulli"><p>
-
+<h2> ¿POR QUÉ LA CARA? </h2>
+<p>
+Debido a que en la cara se forman cicatrices hipertróficas y contractuales que lo que hacen es jalar la piel hacia afuera e impedir la funcionalidad de las facciones y principales funciones como abrir la boca, comer, cerrar el ojo, etc.
+Por este motivo nosotros decidimos abordar la cara porque es muy importante y ahí se encuentran todas la funciones principales.
 <p>
 <h2> La presoterapia, método estándar para el tratamiento de cicatrices </h2>
 <p>
