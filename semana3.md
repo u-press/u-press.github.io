@@ -6,7 +6,7 @@
 <b>  - Para esto nosotros dimos ideas para llenar el siguiente mapa.<br>
 <p>
  
-<p>><img src="http://i66.tinypic.com/35l6qyr.jpg" alt="Italian Trulli"><p>
+<p><img src="http://i66.tinypic.com/35l6qyr.jpg" alt="Italian Trulli"><p>
 
 <p>
 <b>D3. IDENTIFICACIÓN PROBLEMAS<br>
