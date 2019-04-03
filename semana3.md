@@ -5,7 +5,7 @@
 <b>D2. MAPA DE EMPATÍA<br>
 <b>  - Para esto nosotros dimos ideas para llenar el siguiente mapa.<br>
 <b>D3. IDENTIFICACIÓN PROBLEMAS<br>
-<b>  - Cada uno de nosotros tenía que escribir personalmente en los post it entregados problemas que le podrían ocurrir a nuestro   paciente.</b>
+<b>  - Cada uno de nosotros tenía que escribir personalmente en los post it entregados problemas que le podrían ocurrir a nuestro   paciente.<br>
 <b>D4. AGRUPACIÓN DE PROBLEMAS<br>
 <b>  - En esta etapa cojimos todos los promlemas que escribimos en los posits y los agrupamos en 3 partes con ideas mas generales como se ve en la gráfica.<br>
 <b>D5. DEFINICIÓN DEL PROBLEMA<br>
