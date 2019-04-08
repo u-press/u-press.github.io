@@ -1,6 +1,6 @@
 <h2> Entradas y Salidas </h2>
 <center>
-  <img src="img/E&S.png" alt="" class="img-fluid img-rounded">
+  <img src="img/E&S.jpg" alt="" class="img-fluid img-rounded">
 </center>
 <h3>Avance Resumen Ejecutivo en Clase</h3>
 <p>ANGIE: Para pacientes quemados que necesitan de la presoterapia. U-press es una máscara que permite hacer presoterapia a diferencia de las máscaras de tela este producto llegaría a zonas difíciles de hacer presión como pasa con las máscaras de tela y tendría sensores que permitan ver que llegue la presión necesaria.</p>
