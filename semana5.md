@@ -7,14 +7,6 @@
 <h1>TABLAS DE EVALUACIÓN </h1> <br>
 <p>
  
-<p><img src="http://i66.tinypic.com/iw7zmq.png"Italian Trulli"><p>
-
-<p>
- 
-<p><img src="http://i65.tinypic.com/14y4k1d.png"Italian Trulli"><p>
-
-<p>
- 
-<p><img src="http://i64.tinypic.com/2hf18qc.png"Italian Trulli"><p>
+<p><img src="http://i64.tinypic.com/2hf18qc.png" alt="Italian Trulli"><p>
 
 <p>
