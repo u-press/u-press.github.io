@@ -19,9 +19,9 @@ Uno de los principales problemas de este proceso de cicatrización es la generac
 Un ejemplo de esto sería una quemadura en la cara, en la cual si se forman cicatrices contracturales en ésta, puede impedir la funcionalidad básica de alimentación al limitar el movimiento de la boca, asi como el de la visión y la generación de facciones.
 <p>
  <p align="center"><img src="https://cdn.20m.es/img/2009/03/04/936858.jpg" alt="Italian Trulli"><p>
-Por otro lado, La presoterapia es una técnica que consiste en aplicar cierta presión de manera continua sobre un área de la piel propensa a formar cicatrices. La presión ideal es aquella que se aproxime a la presión capilar (de 20 a 30mmHg).(BESt 176)
+Por otro lado, La presoterapia es una técnica que consiste en aplicar cierta presión de manera continua sobre un área de la piel propensa a formar cicatrices. La presión ideal es aquella que se aproxime a la presión capilar (de 20 a 30mmHg).(2)
 <p>
-“Las heridas infectadas son más propensas a desarrollar cicatrices hipertróficas con una forma irregular y con alta densidad de paquetes de colágeno”-
+“Las heridas infectadas son más propensas a desarrollar cicatrices hipertróficas con una forma irregular y con alta densidad de paquetes de colágeno”- (3)
 R. Mani et al. (eds.), Compression and Chronic Wound Management
 <p>
 Se indica la presoterapia para la prevención de cicatrices hipertróficas en aquellas quemaduras que por su profundidad hayan requerido autoinjerto. Su utilización inmediata le brinda protección mécanica y externa al injerto hasta que la lesión esté cerrada o los injertos se hayan integrado completamente. En la actualidad, se aplica con prendas elásticas de comprensión que evitan el riesgo de dañar la zona afectada con la fricción y el desplazamentos de los injertos al colocarla con la ayuda de un profesional médico capacitao.
@@ -30,7 +30,14 @@ Esta presión mecánica actua en los miofibroblastos, células sensibles a ésta
 <p>
 Asimismo, en la siguiente imagen podemos notar que diferentes estimulos físicos, incluyendo el ya mencionado (Compresión) tienen efecto en varios mecanoreceptores de la piel.
  <p align="center"><img src="http://i63.tinypic.com/iop5d4.png" alt="Italian Trulli"><p>
-Figura 2. Esquema de fuerzas mecánicas que actuan en una célula ocasionando respuestas celulares. Fuente: www.liebertpub.com/wound
+Figura 2. Esquema de fuerzas mecánicas que actuan en una célula ocasionando respuestas celulares. Fuente: Mechanical Forces in Cutaneous Wound Healing: Emerging Therapies to Minimize Scar Formation. Recuperado de www.liebertpub.com/wound
+
+<h2>Referencias</h2> <br>
+   1. 
+   2. Sharp, P., Cincinnati Children's Hospital Medical Center: Best Evidence Statement Use of pressure therapy for management of
+hypertrophic scarring, http://www.cincinnatichildrens.org/svc/alpha/h/health-policy/best.htm, BESt 176, pages 1-10, 3/13/14.
+   
+   <br>
 
 
    <h2>Tratamientos actuales en contra de las quemaduras<h2> 
@@ -129,7 +136,7 @@ Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioqu
 2.Barnes, L. A., Marshall, C. D., Leavitt, T., Hu, M. S., Moore, A. L., Gonzalez, J. G., . . . Gurtner, G. C. (2018). Mechanical Forces in Cutaneous Wound Healing: Emerging Therapies to Minimize Scar Formation. Advances in Wound Care, 7(2), 47–56. https://doi.org/10.1089/wound.2016.0709 <br>
 3.	Singla, R., Abidi, S. M. S., Dar, A. I., & Acharya, A. (2019). Nanomaterials as potential and versatile platform for next generation tissue engineering applications. Journal of Biomedical Materials Research Part B: Applied Biomaterials, . https://doi.org/10.1002/jbm.b.34327 <br>
 4.	Cochrane Database Syst Rev 2013 Mar. (s.f.). Topical treatment and dressing of burns. Recuperado 26 marzo, 2019, de https://www.dynamed.com/topics/dmp%7EAN%7ET901805 <br>
-5.	Busch, K., Aliu, A., Walezko, N., & Aust, M. (2018). Medical Needling: Effect on Moisture and Transepidermal Water Loss of Mature Hypertrophic Burn Scars. Cureus, . https://doi.org/10.7759/cureus.2365 <br>
+5.	Majid, I., & Imran, S. (2017). Fractional Carbon Dioxide Laser Resurfacing in Combination With Potent Topical Corticosteroids for Hypertrophic Burn Scars in the Pediatric Age Group. Dermatologic Surgery, , 1. https://doi.org/10.1097/dss.0000000000001413 <br>
 6.	Busch, K., Aliu, A., Walezko, N., & Aust, M. (2018). Medical Needling: Effect on Moisture and Transepidermal Water Loss of Mature Hypertrophic Burn Scars. Cureus, . https://doi.org/10.7759/cureus.2365 <br>
 7.	Stekelenburg, C. M., Marck, R. E., Verhaegen, P. D. H. M., Marck, K. W., & Van Zuijlen, P. P. M. (2017). Perforator-based flaps for the treatment of burn scar contractures: a review. Burns & Trauma, 5(1). https://doi.org/10.1186/s41038-017-0071-2 <br>
 8.	Elmelegy, N. G., Hegazy, A. M., Sadaka, M. S., & Abdeldaim, D. E. (2018). Electrophotobiomodulation in the treatment of facial post-burn hypertrophic scars in pediatric patients. Annals of burns and fire disasters, 31(2), 127–132. <br>
