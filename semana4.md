@@ -1,6 +1,7 @@
-<h2> Boceto 1 </h2>
+A partir del proceso de Design Thinking, metodología impartida por Bioincuba para el desarrollo de proyectos innovadores, analizamos múltiples factores que nos llevaron al planteamiento de nuestros tres "posibles proyectos", de los cuáles se realizaron los bocetos respectivos para un mejor entendimiento de los mismos. A continuación las imágenes y explicaciones respectivas de cada una de ellas.
+<h3> Boceto 1 </h3>
 <center>
-  <img src="img/b1.jpg" alt="" class="img-fluid img-rounded">
+  <img src="img/b1.jpg" width="1170" height="822" alt="" class="img-fluid img-rounded">
 </center>
 <p> Máscara de tratamiento para quemados basada en presoterapia usando una doble cámara de contención (aire y agua), regulables con válvula de entrada de aire del ambiente.</p>
 <h2> Boceto 2 </h2>
