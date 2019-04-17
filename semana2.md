@@ -13,8 +13,10 @@ Frente a un paciente con quemadura será muy importante determinar el contexto e
    Actualmente, el manejo de las cicatrices producidas por quemaduras puede atacarse por diversos medios: intervención quirúrgica, tratamientos tópicos, tecnología láser, presoterapia, medicina regenerativa, nanomateriales, entre otros. (Wu, 2017). 
 <p>
 Sin embargo, ninguno ha demostrado ser totalmente efectivo por la falta de entendimiento del proceso multicausal que es la cicatrización, en el cual actúan múltiples cuerpos celulares siendo los principales las citoquinas, factores de crecimiento y proteínas asociadas a músculos, tejido conectivo y epitelial. 
-
-Uno de los principales problemas de este proceso de cicatrización es la generación de cicatrices hipertróficas y contractuales, las cuales no sólo tienen un impacto estético en el paciente sino que pueden comprometer funciones de movimiento. Un ejemplo de esto sería una quemadura en la cara, en la cual si se forman cicatrices contracturales en ésta, puede impedir la funcionalidad básica de alimentación al limitar el movimiento de la boca, asi como el de la visión y la generación de facciones.
+<p>
+Uno de los principales problemas de este proceso de cicatrización es la generación de cicatrices hipertróficas y contractuales, las cuales no sólo tienen un impacto estético en el paciente sino que pueden comprometer funciones de movimiento. 
+  <p>
+Un ejemplo de esto sería una quemadura en la cara, en la cual si se forman cicatrices contracturales en ésta, puede impedir la funcionalidad básica de alimentación al limitar el movimiento de la boca, asi como el de la visión y la generación de facciones.
 <p>
  <p align="center"><img src="https://cdn.20m.es/img/2009/03/04/936858.jpg" alt="Italian Trulli"><p>
 Por otro lado, La presoterapia es una técnica que consiste en aplicar cierta presión de manera continua sobre un área de la piel propensa a formar cicatrices. La presión ideal es aquella que se aproxime a la presión capilar (de 20 a 30mmHg).(BESt 176)
