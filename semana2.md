@@ -15,20 +15,20 @@ Por este motivo nosotros decidimos abordar la cara porque es muy importante y ah
 <h2> La presoterapia, método estándar para el tratamiento de cicatrices </h2>
    
    Actualmente, el manejo de las cicatrices producidas por quemaduras puede atacarse por diversos medios: intervención quirúrgica, tratamientos tópicos, tecnología láser, presoterapia, medicina regenerativa, nanomateriales, entre otros. (Wu, 2017). 
-
+<p>
 Sin embargo, ninguno ha demostrado ser totalmente efectivo por la falta de entendimiento del proceso multicausal que es la cicatrización, en el cual actúan múltiples cuerpos celulares siendo los principales las citoquinas, factores de crecimiento y proteínas asociadas a músculos, tejido conectivo y epitelial. 
 
 Uno de los principales problemas de este proceso de cicatrización es la generación de cicatrices hipertróficas y contractuales, las cuales no sólo tienen un impacto estético en el paciente sino que pueden comprometer funciones de movimiento.
-
+<p>
 Por otro lado, La presoterapia es una técnica que consiste en aplicar cierta presión de manera continua sobre un área de la piel propensa a formar cicatrices. La presión ideal es aquella que se aproxime a la presión capilar (de 20 a 30mmHg).(BESt 176)
-
+<p>
 “Las heridas infectadas son más propensas a desarrollar cicatrices hipertróficas con una forma irregular y con alta densidad de paquetes de colágeno”-
 R. Mani et al. (eds.), Compression and Chronic Wound Management
-
+<p>
 Se indica la presoterapia para la prevención de cicatrices hipertróficas en aquellas quemaduras que por su profundidad hayan requerido autoinjerto. Su utilización inmediata le brinda protección mécanica y externa al injerto hasta que la lesión esté cerrada o los injertos se hayan integrado completamente. En la actualidad, se aplica con prendas elásticas de comprensión que evitan el riesgo de dañar la zona afectada con la fricción y el desplazamentos de los injertos al colocarla con la ayuda de un profesional médico capacitao.
-
+<p>
 Esta presión mecánica actua en los miofibroblastos, células sensibles a ésta presión que cumplen un factor importante en el proceso de cicatrización y los cuales se consideran un tipo de cuerpo celular comprendido entre el fibroblasto y el músculo esquelético liso.(Wu, 2017).
-
+<p>
 Asimismo, en la siguiente imagen podemos notar que diferentes estimulos físicos, incluyendo el ya mencionado (Compresión) tienen efecto en varios mecanoreceptores de la piel.
  <p align="center"><img src="http://i63.tinypic.com/iop5d4.png" alt="Italian Trulli"><p>
 Figura 2. ESquema de fuerzas mecánicas que actuan en una célula ocasionando respuestas celulares. Fuente: www.liebertpub.com/wound
