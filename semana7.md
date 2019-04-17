@@ -7,7 +7,7 @@
 <h2> Modelado 3D </h2>
 <center>
 <p><img src="http://i64.tinypic.com/mhbn9k.png" alt="Italian Trulli"><p><br>
-  <p><img src="http://i66.tinypic.com/hs2kk4.jpg" alt="Italian Trulli"><p>
+  <p><img src="http://i63.tinypic.com/208tzdk.png" alt="Italian Trulli"><p>
 </center>
     
 <h3>Avance Resumen Ejecutivo en Clase</h3>
