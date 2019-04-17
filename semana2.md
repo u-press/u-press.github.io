@@ -7,19 +7,16 @@ Frente a un paciente con quemadura será muy importante determinar el contexto e
   <p>
  
 <p><img src="http://i66.tinypic.com/2d18xn6.png" alt="Italian Trulli"><p>
-<h2> ¿POR QUÉ LA CARA? </h2>
-<p>
-Debido a que en la cara se forman cicatrices hipertróficas y contractuales que lo que hacen es jalar la piel hacia afuera e impedir la funcionalidad de las facciones y principales funciones como abrir la boca, comer, cerrar el ojo, etc.
-Por este motivo nosotros decidimos abordar la cara porque es muy importante y ahí se encuentran todas la funciones principales.
-<p>
+ 
 <h2> La presoterapia, método estándar para el tratamiento de cicatrices </h2>
    
    Actualmente, el manejo de las cicatrices producidas por quemaduras puede atacarse por diversos medios: intervención quirúrgica, tratamientos tópicos, tecnología láser, presoterapia, medicina regenerativa, nanomateriales, entre otros. (Wu, 2017). 
 <p>
 Sin embargo, ninguno ha demostrado ser totalmente efectivo por la falta de entendimiento del proceso multicausal que es la cicatrización, en el cual actúan múltiples cuerpos celulares siendo los principales las citoquinas, factores de crecimiento y proteínas asociadas a músculos, tejido conectivo y epitelial. 
 
-Uno de los principales problemas de este proceso de cicatrización es la generación de cicatrices hipertróficas y contractuales, las cuales no sólo tienen un impacto estético en el paciente sino que pueden comprometer funciones de movimiento.
+Uno de los principales problemas de este proceso de cicatrización es la generación de cicatrices hipertróficas y contractuales, las cuales no sólo tienen un impacto estético en el paciente sino que pueden comprometer funciones de movimiento. Un ejemplo de esto sería una quemadura en la cara, en la cual si se forman cicatrices contracturales en ésta, puede impedir la funcionalidad básica de alimentación al limitar el movimiento de la boca, asi como el de la visión y la generación de facciones.
 <p>
+ <p align="center"><img src="https://cdn.20m.es/img/2009/03/04/936858.jpg" alt="Italian Trulli"><p>
 Por otro lado, La presoterapia es una técnica que consiste en aplicar cierta presión de manera continua sobre un área de la piel propensa a formar cicatrices. La presión ideal es aquella que se aproxime a la presión capilar (de 20 a 30mmHg).(BESt 176)
 <p>
 “Las heridas infectadas son más propensas a desarrollar cicatrices hipertróficas con una forma irregular y con alta densidad de paquetes de colágeno”-
@@ -31,7 +28,7 @@ Esta presión mecánica actua en los miofibroblastos, células sensibles a ésta
 <p>
 Asimismo, en la siguiente imagen podemos notar que diferentes estimulos físicos, incluyendo el ya mencionado (Compresión) tienen efecto en varios mecanoreceptores de la piel.
  <p align="center"><img src="http://i63.tinypic.com/iop5d4.png" alt="Italian Trulli"><p>
-Figura 2. ESquema de fuerzas mecánicas que actuan en una célula ocasionando respuestas celulares. Fuente: www.liebertpub.com/wound
+Figura 2. Esquema de fuerzas mecánicas que actuan en una célula ocasionando respuestas celulares. Fuente: www.liebertpub.com/wound
 
 
    <h2>Tratamientos actuales en contra de las quemaduras<h2> 
