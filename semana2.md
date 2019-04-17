@@ -13,18 +13,27 @@ Debido a que en la cara se forman cicatrices hipertróficas y contractuales que 
 Por este motivo nosotros decidimos abordar la cara porque es muy importante y ahí se encuentran todas la funciones principales.
 <p>
 <h2> La presoterapia, método estándar para el tratamiento de cicatrices </h2>
-<p>
-La presoterapia consiste en aplicar una cierta presión de manera continua sobre una cicatriz. Para obtener resultados óptimos la compresión mínima sobre la cicatriz debe de ser de 20 mmHG. Generalmente la compresión teórica debe llegar al límite de la presión capilar. Si se mantiene la presión constante a 24 mmHg permitimos a las fibras de colágeno realinear sus fibras en sentido paralelo a la par que disminuye la vascularidad y por lo tanto la síntesis exagerada de fibroblastos, de fibras reticulares y del colágeno, reduce los niveles de alfa-2 macroglobulina que favorece la acción de la colagenasa si tenemos más de 24 mmHg nos exponemos a un bloqueo del retorno venoso. 
-<p>
-Se ha probado que con la acción de la presoterapia se produce una maduración continúa sobre los elementos celulares, las sustancias fundamentales y sobre el colágeno. La presoterapia modifica los elementos del tejido de granulación.
-Se indica la presoterapia, para la prevención de cicatrices hipertróficas, una vez que la lesión esté cerrada o que los injertos se hayan integrado, para evitar el riesgo de dañar la zona con la fricción o el desplazamiento de los injertos al colocarla,
-siempre haciendo referencia a las prendas elásticas de compresión.
-<p>
-Otro beneficio es combatir el dolor, el prurito y el edema. La compresión en las cicatrices actúa de distintas formas, se  encuentran tres teorías posibles de acción 2,6-8. La primera plantea la reducción de la síntesis de colágeno por disminución del flujo sanguíneo, oxígeno y nutrientes en la cicatriz. La segunda se basa en la descripción de la acción directa en la fase de remodelamiento alterando la liberación y actividad de la Metaloproteasa-28 generando disminución de la presencia de la proteína. La tercera el aumento de prostaglandina E2 que activa la colagenasa.
-<p>
-Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en quemaduras faciales en pacientes pediátricos durante la etapa aguda del tratamiento ni post-autoinjerto inmediato.En aquellas quemaduras que por su profundidad hayan requerido autoinjerto, la utilización de la presoterapia post-autoinjerto inmediato, se utiliza para dar protección mecánica al injerto y favorecer su integración, ya que evita cualquier tipo de cizallamiento.
- <p>                                                 
    
+   Actualmente, el manejo de las cicatrices producidas por quemaduras puede atacarse por diversos medios: intervención quirúrgica, tratamientos tópicos, tecnología láser, presoterapia, medicina regenerativa, nanomateriales, entre otros. (Wu, 2017). 
+
+Sin embargo, ninguno ha demostrado ser totalmente efectivo por la falta de entendimiento del proceso multicausal que es la cicatrización, en el cual actúan múltiples cuerpos celulares siendo los principales las citoquinas, factores de crecimiento y proteínas asociadas a músculos, tejido conectivo y epitelial. 
+
+Uno de los principales problemas de este proceso de cicatrización es la generación de cicatrices hipertróficas y contractuales, las cuales no sólo tienen un impacto estético en el paciente sino que pueden comprometer funciones de movimiento.
+
+Por otro lado, La presoterapia es una técnica que consiste en aplicar cierta presión de manera continua sobre un área de la piel propensa a formar cicatrices. La presión ideal es aquella que se aproxime a la presión capilar (de 20 a 30mmHg).(BESt 176)
+
+“Las heridas infectadas son más propensas a desarrollar cicatrices hipertróficas con una forma irregular y con alta densidad de paquetes de colágeno”-
+R. Mani et al. (eds.), Compression and Chronic Wound Management
+
+Se indica la presoterapia para la prevención de cicatrices hipertróficas en aquellas quemaduras que por su profundidad hayan requerido autoinjerto. Su utilización inmediata le brinda protección mécanica y externa al injerto hasta que la lesión esté cerrada o los injertos se hayan integrado completamente. En la actualidad, se aplica con prendas elásticas de comprensión que evitan el riesgo de dañar la zona afectada con la fricción y el desplazamentos de los injertos al colocarla con la ayuda de un profesional médico capacitao.
+
+Esta presión mecánica actua en los miofibroblastos, células sensibles a ésta presión que cumplen un factor importante en el proceso de cicatrización y los cuales se consideran un tipo de cuerpo celular comprendido entre el fibroblasto y el músculo esquelético liso.(Wu, 2017).
+
+Asimismo, en la siguiente imagen podemos notar que diferentes estimulos físicos, incluyendo el ya mencionado (Compresión) tienen efecto en varios mecanoreceptores de la piel.
+ <p align="center"><img src="http://i63.tinypic.com/iop5d4.png" alt="Italian Trulli"><p>
+Figura 2. ESquema de fuerzas mecánicas que actuan en una célula ocasionando respuestas celulares. Fuente: www.liebertpub.com/wound
+
+
    <h2>Tratamientos actuales en contra de las quemaduras<h2> 
   
   <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPUKkHUSvQ9LXi4O-70lwuUFqSjJRGFPQUEkAGiBAQqxcunOAyHcn4cUhmt_KELyw2VyQA-PR0d13C/pubhtml?widget=true&headers=false" width="1120" height="600"></iframe></p> 
