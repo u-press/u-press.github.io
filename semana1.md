@@ -16,9 +16,7 @@ En Latinoamérica, un promedio de 1351 casos de quemaduras requieren hospitaliza
 <p>
 <strong>¿Sabías qué?</strong>
 <p>
--      En 2004, casi 11 millones de personas de todo el mundo sufrieron quemaduras lo suficientemente graves para requerir atención médica. (World Health Organization, 2018)
--      En Noruega, los costos de la gestión hospitalaria de las quemaduras superaron en 2007 los 10,5 millones de Euros. (World Health Organization, 2018)
--      En la región Huánuco existe una población de pacientes quemados pediátricos en etapa aguda y de secuelas no satisfecha. (El Comercio Perú, 2018)
+<img src="http://i63.tinypic.com/2ch0tv8.png" alt="Italian Trulli">
 <p>
 <b>Figura 1. Causas frecuentes de quemaduras </b>
  <img src="http://i65.tinypic.com/2hx155e.png" alt="Italian Trulli">
