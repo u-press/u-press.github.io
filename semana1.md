@@ -5,7 +5,7 @@
 <cite> "Globalmente, las quemaduras son un serio problema de salud pública. Un estimado de 265.000 muertes ocurren cada año sólo por fuegos, con más muertes en líquidos calientes, quemaduras eléctricas y otras formas de quemaduras cuyas estatisticas mundiales no estan disponibles." </cite> <p>
 <p>-Organización Mundial de la Salud.
 <p align="center">
-  <img width="600" height="450" src="http://i65.tinypic.com/2qc05ko.png">
+  <img width="600" height="550" src="http://i65.tinypic.com/2qc05ko.png">
 </p>
 <p>
 En Latinoamérica, un promedio de 1351 casos de quemaduras requieren hospitalización y alrededor de 23 mueren anualmente. En el Perú, específicamente en el 2013, se hospitalizaron 291 niños en el Instituto Nacional de Salud del Niño (INSN), en el cual 54% de ellos tenia cuatro años y 23 % de cinco a nueve años; el 70% sufrió quemaduras por caída de líquidos calientes sobre su cuerpo y 30% restante tuvo contacto directo con fuego.
