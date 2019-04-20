@@ -1,14 +1,5 @@
 <div class="introduction">
   <p align="center"> <h1>Semana 1: Problemática</h1><p>
-## `right` alignment
-
-<img align="right" width="100" height="100" src=""http://i65.tinypic.com/2qc05ko.png">
-
- <p>
-<cite> "Globalmente, las quemaduras son un serio problema de salud pública. Un estimado de 265.000 muertes ocurren cada año sólo por fuegos, con más muertes en líquidos calientes, quemaduras eléctricas y otras formas de quemaduras cuyas estatisticas mundiales no estan disponibles." </cite> <p>
-```
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
-```
  <p>
 <cite> "Globalmente, las quemaduras son un serio problema de salud pública. Un estimado de 265.000 muertes ocurren cada año sólo por fuegos, con más muertes en líquidos calientes, quemaduras eléctricas y otras formas de quemaduras cuyas estatisticas mundiales no estan disponibles." </cite> <p>
 <p>-Organización Mundial de la Salud.
