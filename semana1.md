@@ -13,6 +13,7 @@ En Latinoamérica, un promedio de 1351 casos de quemaduras requieren hospitaliza
   <img width="650" height="600" src="http://i63.tinypic.com/2ch0tv8.png">
 </p>
 <b>Figura 1. Causas frecuentes de quemaduras </b>
+<p align="center">
  <img src="http://i65.tinypic.com/2hx155e.png" alt="Italian Trulli">
 Fuente:http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0376-78922017000100009
 <p>
