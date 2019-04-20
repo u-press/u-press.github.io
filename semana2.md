@@ -136,4 +136,4 @@ Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioqu
 
 
 <a href="semana1.html"> <p align="rightr"><img src="http://i63.tinypic.com/e8x3kz.png"><p></a>
-
+<a href="semana3.html"> <p align="left"><img src="http://i63.tinypic.com/ofszrk.png"><p></a>
