@@ -52,7 +52,7 @@
 <p><img src="http://i67.tinypic.com/2im2o03.png" alt="Italian Trulli"><p>
 
 <p>
-<h2> Figura1: Tabla de requerimientos </h2>
+<h2> Figura 1: Tabla de requerimientos </h2>
    <center>
   <img src="img/tablaR.jpg" alt="" class="img-fluid img-rounded">
 </center>
