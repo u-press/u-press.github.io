@@ -3,9 +3,7 @@ layout: default
 title: "Semana 1: Problemática"
 ---
 <div class="introduction">
-  
-  <p>
- <p style="text-align:center;"><b>SEMANA 1 </b></p></p>
+  <p align="center"> <h1>Semana 2: Estado de Arte</h1><p>
 
  <b>Problemática</b>
  <p>
