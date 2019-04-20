@@ -22,15 +22,13 @@ Una quemadura es una lesión a la piel u otro tejido orgánico causada principal
   <img width="460" height="300" src="http://i63.tinypic.com/14myr8p.jpg">
 </p>
  <p>
-  <h2> Impacto de las quemaduras a nivel socioeconómico </h2>
+  <h2> Impacto socioeconómico </h2>
 
 El riesgo de sufrir quemaduras esta intimamente relacionado con la posición socio-economica. Esto se ve evidenciado no solo en Latinoámerica sino a nivel mundial (Organización Mundial de la Salud).
 <p>
 Los pacientes atendidos provienen en su mayoría de familias calificadas en sus consultorios de origen como indigentes. Por lo tanto, el acceso a la atención de salud está limitada a los recursos existentes en el barrio o la localidad de familias calificadas en sus consultorios de origen como de bajos recursos, ya que no siempre disponen de la atención especializada e integrada dirigida exclusiva al paciente (Pontificia Universidad Católica de Chile).
 <p>
-Las quemaduras severas causan discapacidad física, psicológica, social y laboral. Si las secuelas son en partes expuestas a la mirada de los demás, como es el rostro, particularmente en adolescentes y jóvenes es catastrófico, con mayor impacto en las mujeres; esto hará sentir a la persona insegura, con sentimientos de inferioridad, culpa, angustia, depresión, y miedo al rechazo. Algunos pueden conciliar con esta condición, otros no, llegan incluso al suicidio, es el caso de dos adolescentes atendidos en el INSN, principalmente en familias vulnerables económicamente, y tienen repercusión social y económica. (Arredondo, 2016)
-<p>
-<strong>Impacto psicológico</strong>
+<h2> Impacto psicológico </h2>
 La sociedad actual ve la apariencia física como instrumento básico para alcanzar el éxito social y laboral, y, es reforzado por los medios de comunicación. Sin embargo, muchas veces se confunde imagen corporal con apariencia física, la imagen corporal involucra el sentimiento que cada persona tiene en relación a su propio cuerpo, cualquier alteración en la imagen influye en la autoestima, trayendo como consecuencia un gran impacto psicológico y emocional colocando a la persona en situación de crisis con una alta vulnerabilidad psicológica. (Arredondo, 2016)
 <p>
 <b>Figura 2. Complicaciones de las quemaduras </b>
@@ -38,22 +36,3 @@ La sociedad actual ve la apariencia física como instrumento básico para alcanz
 Fuente:https://www.slideshare.net/KwinzyMaikaje/quemaduras-parte-2<br>
   
   
-
-<hr>
-
-<div class="toc">
-  
-  <ul class="texts">
-  {% for item in site.texts %}
-  
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
-
-
-
