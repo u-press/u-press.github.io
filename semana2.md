@@ -31,17 +31,8 @@ Esta presión mecánica actua en los miofibroblastos, células sensibles a ésta
 Asimismo, en la siguiente imagen podemos notar que diferentes estimulos físicos, incluyendo el ya mencionado (Compresión) tienen efecto en varios mecanoreceptores de la piel.
  <p align="center"><img src="http://i63.tinypic.com/iop5d4.png" alt="Italian Trulli"><p>
 Figura 2. Esquema de fuerzas mecánicas que actuan en una célula ocasionando respuestas celulares. Fuente: Mechanical Forces in Cutaneous Wound Healing: Emerging Therapies to Minimize Scar Formation. Recuperado de www.liebertpub.com/wound
-
-<h2>Referencias</h2> <br>
-   1. 
-   2. Sharp, P., Cincinnati Children's Hospital Medical Center: Best Evidence Statement Use of pressure therapy for management of
-hypertrophic scarring, http://www.cincinnatichildrens.org/svc/alpha/h/health-policy/best.htm, BESt 176, pages 1-10, 3/13/14.
-   
    <br>
-
-
    <h2>Tratamientos actuales en contra de las quemaduras<h2> 
-  
   <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPUKkHUSvQ9LXi4O-70lwuUFqSjJRGFPQUEkAGiBAQqxcunOAyHcn4cUhmt_KELyw2VyQA-PR0d13C/pubhtml?widget=true&headers=false" width="1120" height="600"></iframe></p> 
   
   <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqRn_EvJhdnTnW4rtBBhIFMB4zE2zZ9XjPk-wvBnmfFdc2PQsIWdtIwrommueFQ_JhekJa2Q8ZGuBc/pubhtml?widget=true&headers=false" width="1150" height="700"></iframe></p>
