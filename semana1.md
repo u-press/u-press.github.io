@@ -8,10 +8,10 @@
   <img width="600" height="450" src="http://i65.tinypic.com/2qc05ko.png">
 </p>
 <p>
-En Latinoamérica, un promedio de 1351 casos de quemaduras requieren hospitalización y alrededor de 23 mueren anualmente. En el Perú, específicamente en el 2013, se hospitalizaron 291 niños en el Instituto Nacional de Salud del Niño (INSN), en el cual 54% de ellos tenia cuatro años y 23 % de cinco a nueve años; el 70% sufrió quemaduras por caída de líquidos calientes sobre su cuerpo y 30% restante tuvo contacto directo con fuego. (Arredondo, 2016)
-<p>
-<img src="http://i63.tinypic.com/2ch0tv8.png" alt="Italian Trulli">
-<p>
+En Latinoamérica, un promedio de 1351 casos de quemaduras requieren hospitalización y alrededor de 23 mueren anualmente. En el Perú, específicamente en el 2013, se hospitalizaron 291 niños en el Instituto Nacional de Salud del Niño (INSN), en el cual 54% de ellos tenia cuatro años y 23 % de cinco a nueve años; el 70% sufrió quemaduras por caída de líquidos calientes sobre su cuerpo y 30% restante tuvo contacto directo con fuego.
+<p align="center">
+  <img width="450" height="300" src="http://i63.tinypic.com/2ch0tv8.png">
+</p>
 <b>Figura 1. Causas frecuentes de quemaduras </b>
  <img src="http://i65.tinypic.com/2hx155e.png" alt="Italian Trulli">
 Fuente:http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0376-78922017000100009
