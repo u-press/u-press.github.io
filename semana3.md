@@ -39,24 +39,24 @@
 
 <p>
 <h2> D7. Idear </h2>
-<b>  - Luego de haber decidido cuál es el problema comenzamos a dar posibles ideas de solución no importaba que tan locas fuesen.<br>
+<b>  Luego de haber decidido cuál es el problema comenzamos a dar posibles ideas de solución no importaba que tan locas fuesen.<br>
   <p>
  
 <p><img src="http://i63.tinypic.com/2u8xxnd.png" alt="Italian Trulli"><p>
 
 <p>
-<h2> D8. Ideación evaluación </h2>
-<b>  - Para esta parte seleccionamos las ideas que eran más factibles y viables y llegamos a la conclusión siguiente.<br>
+<h2> D8. Ideación - evaluación </h2>
+<b>  Para esta parte seleccionamos las ideas que eran más factibles y viables y llegamos a la conclusión siguiente.<br>
   <p>
  
 <p><img src="http://i67.tinypic.com/2im2o03.png" alt="Italian Trulli"><p>
 
 <p>
-<h2> Figura1: Tbala de requerimientos </h2>
+<h2> Figura1: Tabla de requerimientos </h2>
    <center>
   <img src="img/tablaR.jpg" alt="" class="img-fluid img-rounded">
 </center>
-<p> REFERENCIAS:</p>
+<h2> Referencias </h2>
 <p>(FALTA CITAR)</p>
 <p>- http://repositorio.puce.edu.ec/bitstream/handle/22000/14836/TFC%20-%20Andr%C3%A9s%20Espinosa%20D%C3%A1vila.pdf?sequence=1&isAllowed=y</p>
 <p>- https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=N0037731</p>
