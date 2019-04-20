@@ -2,7 +2,7 @@
 <h1>DESIGN THINKING</h1><p>
 <div class="introduction">
   <p align="center"> <h1>D1. EMPATIZA</h1><p>
-<b>D1. EMPATIZAR<br>
+<b>D1. Empatizar<br>
 <b>  - Cada uno de nosotros tuvo que leer acerca del paciente y ponerse en su lugar anotando todo lo que pensaba, sentía, decía, etc.<br>
 <b>D2. MAPA DE EMPATÍA<br>
 <b>  - Para esto nosotros dimos ideas para llenar el siguiente mapa.<br>
