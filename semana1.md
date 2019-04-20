@@ -18,6 +18,9 @@ Fuente:http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0376-789220170
 <p>
 <h2> ¿Qué son las quemaduras? </h2>
 Una quemadura es una lesión a la piel u otro tejido orgánico causada principalmente por el calor o la radiación, la radioactividad, la electricidad, la fricción o el contacto con productos químicos.
+  <p align="center">
+  <img width="460" height="300" src="http://i63.tinypic.com/14myr8p.jpg">
+</p>
  <p>
   <h2> Impacto de las quemaduras a nivel socioeconómico </h2>
 
