@@ -134,6 +134,7 @@ Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioqu
 9.	Anzarut, A., Olson, J., Singh, P., Rowe, B. H., & Tredget, E. E. (2009). The effectiveness of pressure garment therapy for the prevention of abnormal scarring after burn injury: a meta-analysis. Journal of Plastic, Reconstructive & Aesthetic Surgery, 62(1), 77–84. https://doi.org/10.1016/j.bjps.2007.10.052	 <br>	
 10.	Hyland, E. J., D'Cruz, R., Menon, S., Harvey, J. G., La Hei, E., Lawrence, T., … Holland, A. J. (2018). Biobrane™ versus acticoat™ for the treatment of mid-dermal pediatric burns: a prospective randomized controlled pilot study. International journal of burns and trauma, 8(3), 63–67.		 <br>
 
-
-<a href="semana1.html"> <p align="left"><img src="http://i63.tinypic.com/ao2lc5.png"><p></a> 
-<a href="semana3.html"> <p align="right"><img src="http://i67.tinypic.com/141ia1s.jpg"><p></a>
+<center>
+<a href="semana1.html"> <img src="http://i63.tinypic.com/ao2lc5.png"></a> 
+<a href="semana3.html"> <img src="http://i67.tinypic.com/141ia1s.jpg"></a>
+</center>
