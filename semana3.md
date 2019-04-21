@@ -68,5 +68,5 @@
 <p> Campos, Cristian (2006). Diseño de productos: diseño para todos los tamaños, XL, L, M, S. España: Maomao.</p>
 <p> Asensio, Oscar (2007). Productdesign. Barcelona: Reditar Libros.</p>
 <p>52 Bramston, David (2010). De la idea al producto. Barcelona: Parramón.</p>
-
-
+<a href="semana2.html"> <p align="left"><img src="http://i64.tinypic.com/34zd7ax.png"><p></a> 
+<a href="semana4.html"> <p align="right"><img src="http://i65.tinypic.com/10cklg5.png"><p></a>
