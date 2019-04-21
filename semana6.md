@@ -9,13 +9,13 @@
 
 <h2> Lista de Materiales </h2>
 <center>
-Controlador: Arduino Nano. Se escogió este modelo porque tiene que ser lo más pequeño posible para no incomodar al paciente.
-Material Capa Externa: Flex/PLA. El material externo será impreso en 3D. Se probará la resistencia de ambos.
-Material Capa Interna: Silicona Dragon Skin 30/RTV 1530. Escogimos estas formas de silicona debido a sus propiedades mecánicas y elásticas, las cuales sobrepasan lo requerido para la presión que vamos a ejercer (
-Correas: Tela elástica o velcro. Tienen la función de ajustar la máscara para ejercer la presión adecuada al paciente.
-Sensor de Presión MF01 (2 cantidades): Recogeran información de la presión ejercida por la capa externa. La cantidad puede variar de acuerdo al avance del proyecto.
-Pantalla LCD y Mini Speaker: La pantalla mostrará el valor número de la presión recogida por los sensores y el speaker sonará cuando ya esté en el límite del rango de presion permitido.
-Otra opción es que el speaker suene de manera intermitente cuando este dentro del rango y de manera continua cuando ya este en el límite.
+Controlador: Arduino Nano. Se escogió este modelo porque tiene que ser lo más pequeño posible para no incomodar al paciente.<br>
+Material Capa Externa: Flex/PLA. El material externo será impreso en 3D. Se probará la resistencia de ambos.<br>
+Material Capa Interna: Silicona Dragon Skin 30/RTV 1530. Escogimos estas formas de silicona debido a sus propiedades mecánicas y elásticas, las cuales sobrepasan lo requerido para la presión ideal que vamos a ejercer.<br>
+Correas: Tela elástica o velcro. Tienen la función de ajustar la máscara para ejercer la presión adecuada al paciente.<br>
+Sensor de Presión MF01 (2 cantidades): Recogeran información de la presión ejercida por la capa externa. La cantidad puede variar de acuerdo al avance del proyecto.<br>
+Pantalla LCD y Mini Speaker: La pantalla mostrará el valor número de la presión recogida por los sensores y el speaker sonará cuando ya esté en el límite del rango de presion permitido.<br>
+Otra opción es que el speaker suene de manera intermitente cuando este dentro del rango y de manera continua cuando ya este en el límite.<br>
 Interruptor simple para el encendido y apagado del sistema.
 
 
