@@ -28,3 +28,5 @@
 <p><img src="http://i64.tinypic.com/2hf18qc.png" alt="Italian Trulli"><p>
 
 <p>
+<a href="semana4.html"> <p align="left"><img src="http://i65.tinypic.com/10cklg5.png"><p></a> 
+<a href="semana6.html"> <p align="right"><img src="http://i67.tinypic.com/2d9rpg.png"><p></a>
