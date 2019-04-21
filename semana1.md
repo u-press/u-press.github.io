@@ -34,5 +34,4 @@ La sociedad actual ve la apariencia física como instrumento básico para alcanz
 <b>Figura 2. Complicaciones de las quemaduras </b>
  <img src="http://i68.tinypic.com/jgth6e.png" alt="Italian Trulli">
 Fuente:https://www.slideshare.net/KwinzyMaikaje/quemaduras-parte-2<br>
-  
-  
+<a href="semana2.html"> <p align="center"><img src="http://i64.tinypic.com/34zd7ax.png"><p></a> 
