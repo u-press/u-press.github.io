@@ -1,6 +1,10 @@
 <h2> Boceto Solución Final </h2>
 <center>
-<p><img src="http://i63.tinypic.com/59sb4j.jpg" alt="Italian Trulli"><p><br>
+  <p><img src="http://i67.tinypic.com/x2t11e.jpg"><p><br>
+  <p><img src="http://i64.tinypic.com/33bmvqb.jpg"><p><br>
+  <p><img src="http://i65.tinypic.com/21b3s42.jpg"><p><br>
+  <p><img src="http://i68.tinypic.com/2u4hrpg.jpg"><p><br>
+<p><img src="http://i63.tinypic.com/59sb4j.jpg"><p><br>
   <p><img src="http://i66.tinypic.com/hs2kk4.jpg" alt="Italian Trulli"><p>
 </center>
 
