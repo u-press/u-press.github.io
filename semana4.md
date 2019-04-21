@@ -14,4 +14,5 @@ A partir del proceso de Design Thinking, metodología impartida por Bioincuba pa
   <img src="img/b3.jpg" width="586" height="411" alt="" class="img-fluid img-rounded">
 </center>
 <p>Máscara de tratamiento para quemados basada en presoterapia de tres capas: capa siliconada en contacto con la cara, cámara de agua regulable para aplicar la presión y shell mask impresa en 3D a medida.</p>
-
+<a href="semana3.html"> <p align="left"><img src="http://i67.tinypic.com/141ia1s.jpg"><p></a> 
+<a href="semana5.html"> <p align="right"><img src="http://i64.tinypic.com/24lt2zm.png"><p></a>
