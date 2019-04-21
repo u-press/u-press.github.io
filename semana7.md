@@ -1,3 +1,5 @@
+
+
 <h2> Boceto Solución Final </h2>
 <center>
   <p><img src="http://i67.tinypic.com/x2t11e.jpg"><p><br>
@@ -10,8 +12,10 @@
 
 <h2> Modelado 3D </h2>
 <center>
-  <p><img src="http://i63.tinypic.com/208tzdk.png" alt="Italian Trulli"><p>
-<p><img src="http://i64.tinypic.com/mhbn9k.png" alt="Italian Trulli"><p><br>
+   <p><img src="http://i67.tinypic.com/35aj714.png"><p><br>
+  <p><img src="http://i63.tinypic.com/15z3x94.png"><p><br>
+   <p><img src="http://i67.tinypic.com/10xv9lk.png"><p><br>
+  <p><img src="http://i63.tinypic.com/mwwnph.png"><p><br>
 </center>
     
 <h3>Avance Resumen Ejecutivo en Clase</h3>
