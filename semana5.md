@@ -20,7 +20,7 @@
 
 <p>
  
-<p><img src="img/tablaevaluacion3.jpg"><p>
+<p><img src="img/tablaevaluacion3.png"><p>
 <p>
  <center>
 <a href="semana4.html"> <img src="img/semana4.png"></a> 
