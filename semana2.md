@@ -6,7 +6,7 @@
 Frente a un paciente con quemadura será muy importante determinar el contexto en que ocurrió la quemadura, tomando en cuenta en la historia clínica, el sitio del accidente y el agente causal, ya que pueden haber lesiones asociadas que comprometan la vida o que dejen secuelas luego de la reanimación al no ser sospechadas. Las quemaduras se clasifican en 4 grados dependiendo la profundidad y la severidad con que se penetró la superficie de la piel. Una misma zona del cuerpo puede tener quemaduras de diferentes grados.<p>
   <p>
  
-<p><img src="img/tiposquemaduras.png"><p>
+ <center><p><img src="img/tiposquemaduras.png"><p> </center>
  
 <h2> La presoterapia, método estándar para el tratamiento de cicatrices </h2>
    
