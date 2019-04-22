@@ -18,7 +18,7 @@ Pantalla LCD y Mini Speaker: La pantalla mostrará el valor número de la presi�
 Otra opción es que el speaker suene de manera intermitente cuando este dentro del rango y de manera continua cuando ya este en el límite.<br>
 Interruptor simple para el encendido y apagado del sistema.
 </center>
-</center>
+<center>
 <a href="semana5.html"> <img src="img/semana5.png"></a> 
 <a href="semana7.html"> <img src="img/semana7.jpg"></a>
 </center>
