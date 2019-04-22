@@ -2,20 +2,22 @@
 
 <h2> Boceto Solución Final </h2>
 <center>
-  <p><img src="http://i67.tinypic.com/x2t11e.jpg"><p><br>
-  <p><img src="http://i64.tinypic.com/33bmvqb.jpg"><p><br>
-  <p><img src="http://i65.tinypic.com/21b3s42.jpg"><p><br>
-  <p><img src="http://i68.tinypic.com/2u4hrpg.jpg"><p><br>
-<p><img src="http://i63.tinypic.com/59sb4j.jpg"><p><br>
+  <p><img src="img/IMG-2404.jpg"><p><br>
+  <p><img src="img/IMG-2405.jpg"><p><br>
+  <p><img src="img/IMG-2408.jpg"><p><br>
+  <p><img src="img/IMG-2409.jpg"><p><br>
+   <p><img src="img/IMG-2412 (1).jpg"><p><br>
+  
+  <p><img src="http://i63.tinypic.com/59sb4j.jpg"><p><br>
   <p><img src="http://i66.tinypic.com/hs2kk4.jpg" alt="Italian Trulli"><p>
 </center>
 
 <h2> Modelado 3D </h2>
 <center>
-   <p><img src="http://i67.tinypic.com/35aj714.png"><p><br>
-  <p><img src="http://i63.tinypic.com/15z3x94.png"><p><br>
-   <p><img src="http://i67.tinypic.com/10xv9lk.png"><p><br>
-  <p><img src="http://i63.tinypic.com/mwwnph.png"><p><br>
+   <p><img src="img/gordon1.png"><p><br>
+  <p><img src="img/gordon2.png"><p><br>
+   <p><img src="img/gordon3.png"><p><br>
+  <p><img src="img/gordon4.png"><p><br>
 </center>
     
 <h3>Avance Resumen Ejecutivo en Clase</h3>
@@ -23,4 +25,4 @@
 <p>DAIR: Para los pacientes adultos quemados que actualmente no cuentan con un tratamiento de cicatrización adecuado. U-press es una máscara de tratamiento personalizada que, a diferencia de las máscaras de tela actuales, ejerce y cuantifica de forma efectiva la presión en el rostro.</p>
 <p>JORGE: Para adultos con quemaduras faciales profundas, que tienen dolor innecesario e incomodidades estéticas. U-press es una máscara que mejora la cicatrización de las quemaduras, a diferencia de los tratamientos convencionales, permite monitorear el proceso de manera cuantificable.</p>
 <p>RAFAEL: Para personas con quemaduras faciales que tienen el deseo de no sentir incomodidad en su tratamiento. U-press es una máscara que protege las heridas sin dolor y con un mejor resultado de cicatrización que a diferencia de las máscaras de tela, el producto trae sufrimiento.</p>
-<a href="semana6.html"> <p align="center"><img src="http://i67.tinypic.com/2d9rpg.png"><p></a> 
+<a href="semana6.html"> <p align="center"><img src="img/semana6.png"><p></a> 
