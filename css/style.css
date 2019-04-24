@@ -160,7 +160,7 @@ h6 {
 #header #logo h1 a:hover {
   color: #fff;
   padding-left: 10px;
-  border-left: 4px solid #18d26e;
+  border-left: 5px solid #b6eceb;
 }
 
 #header #logo img {
@@ -297,12 +297,12 @@ h6 {
   transition: 5s;
   margin: 10px;
   color: #fff;
-  background: #18d26e;
+  background: #b6eceb;
 }
 
 #intro .btn-get-started:hover {
   background: #fff;
-  color: #18d26e;
+  color: #b6eceb;
 }
 
 /*--------------------------------------------------------------
