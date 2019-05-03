@@ -20,6 +20,6 @@ Otra opción es que el speaker suene de manera intermitente cuando este dentro d
 Interruptor simple para el encendido y apagado del sistema.
 </center>
 <center>
-<a href="semana5.html"> <img src="img/semana5.png"></a> 
-<a href="semana7.html"> <img src="img/semana7.jpg"></a>
+<a href="semana5.html"> <img src="http://i65.tinypic.com/2hp28vq.png"></a> 
+<a href="semana7.html"> <img src="http://i64.tinypic.com/13yqwxw.png"></a>
 </center>
