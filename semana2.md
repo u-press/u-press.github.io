@@ -135,6 +135,6 @@ Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioqu
 10.	Hyland, E. J., D'Cruz, R., Menon, S., Harvey, J. G., La Hei, E., Lawrence, T., … Holland, A. J. (2018). Biobrane™ versus acticoat™ for the treatment of mid-dermal pediatric burns: a prospective randomized controlled pilot study. International journal of burns and trauma, 8(3), 63–67.		 <br>
 
 <center>
-<a href="semana1.html"> <img src=http://i64.tinypic.com/scwd2s.png"></a> 
-<a href="semana3.html"> <img src="http://i67.tinypic.com/141ia1s.jpg"></a>
+<a href="semana1.html"> <img src="http://i64.tinypic.com/scwd2s.png"></a> 
+<a href="semana3.html"> <img src="http://i68.tinypic.com/b4uxqc.png"></a>
 </center>
