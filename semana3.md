@@ -62,6 +62,6 @@
 <p> Asensio, Oscar (2007). Productdesign. Barcelona: Reditar Libros.</p>
 <p>52 Bramston, David (2010). De la idea al producto. Barcelona: Parramón.</p>
 <center>
-<a href="semana2.html"> <img src="http://i64.tinypic.com/34zd7ax.png"></a> 
-<a href="semana4.html"> <img src="http://i65.tinypic.com/10cklg5.png"></a>
+<a href="semana2.html"> <img src="http://i65.tinypic.com/et85s5.png"></a> 
+<a href="semana4.html"> <img src="http://i64.tinypic.com/6tjuk7.png"></a>
 </center>
