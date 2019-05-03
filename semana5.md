@@ -23,6 +23,6 @@
 <p><img src="img/tablaevaluacion3.png"><p>
 <p>
  <center>
-<a href="semana4.html"> <img src="img/semana4.png"></a> 
-<a href="semana6.html"> <img src="img/semana6.png"></a>
+<a href="semana4.html"> <img src="http://i64.tinypic.com/6tjuk7.png"></a> 
+<a href="semana6.html"> <img src="http://i65.tinypic.com/35mpels.png"></a>
 </center>
