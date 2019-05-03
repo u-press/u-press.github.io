@@ -47,11 +47,9 @@
 <p>
 <h2> D8. Ideación - evaluación </h2>
 <b>  Para esta parte seleccionamos las ideas que eran más factibles y viables y llegamos a la conclusión siguiente.<br>
-  <p>
- 
-<p><img src="http://i67.tinypic.com/2im2o03.png" alt="Italian Trulli"><p>
-
-<p>
+<p align="center">
+  <img src="http://i67.tinypic.com/2im2o03.png">
+</p>
 <h2> Figura 1: Tabla de requerimientos </h2>
    <center>
   <img src="img/tablaR.jpg" alt="" class="img-fluid img-rounded">
