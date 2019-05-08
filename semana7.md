@@ -1,17 +1,16 @@
 
 
 <h2> Boceto Solución Final </h2>
-
   <p>Editar aqui</p>
-  <p><img src="img/IMG-2404.jpg"><p><br><center>
+  <center><p><img src="img/IMG-2404.jpg"><p><br>
   <p>Editar aqui</p>
-  <p><img src="img/IMG-2405.jpg"><p><br><center>
+  <center><p><img src="img/IMG-2405.jpg"><p><br>
   <p>Editar aqui</p>
-  <p><img src="img/IMG-2408.jpg"><p><br><center>
+  <center><p><img src="img/IMG-2408.jpg"><p><br>
   <p>Editar aqui</p>
-  <p><img src="img/IMG-2409.jpg"><p><br><center>
+  <center><p><img src="img/IMG-2409.jpg"><p><br>
   <p>Editar aqui</p>
-   <p><img src="img/IMG-2412 (1).jpg"><p><br><center>
+  <center><p><img src="img/IMG-2412 (1).jpg"><p><br>
   
   <p><img src="http://i63.tinypic.com/59sb4j.jpg"><p><br>
   <p><img src="http://i66.tinypic.com/hs2kk4.jpg" alt="Italian Trulli"><p>
