@@ -1,13 +1,13 @@
 
 
 <h2> Boceto Solución Final </h2>
-  <p>Editar aqui</p>
+  <p>Lo mas importante en este boceto son los sensores de presion (MF01).</p>
   <center><p><img src="img/IMG-2404.jpg"><p><br>
-  <p>Editar aqui</p>
+  <p>Con los sensores podemos ver la variacion de presion que ejerceremos y la que deseamos, controlados por el arduino y una pantalla led que nos muestre la variacion de presion.</p>
   <center><p><img src="img/IMG-2405.jpg"><p><br>
-  <p>Editar aqui</p>
+  <p>La mascara constara con 2 capas; la capa interna sera de silicona con 3 mm de ancho, la capa externa de material dragon skin con 5 mm de ancho.</p>
   <center><p><img src="img/IMG-2408.jpg"><p><br>
-  <p>Editar aqui</p>
+  <p>Contara con 3 orificios por ellos iran correas de 35, 20, 20mm respectivamente.</p>
   <center><p><img src="img/IMG-2409.jpg"><p><br>
   <p>Editar aqui</p>
   <center><p><img src="img/IMG-2412 (1).jpg"><p><br>
