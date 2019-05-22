@@ -17,6 +17,7 @@
 </center>
 
 <h2> Modelado 3D </h2>
+<p>Para realizar el modelo 3D con ayuda de un escaner, escaneamos la cara del pacientes para ser mas personalizado el tratamientoy eitarlo luego hasta llegar al modelo final.</p>
 <center>
    <p><img src="img/gordon1.png"><p><br>
   <p><img src="img/gordon2.png"><p><br>
