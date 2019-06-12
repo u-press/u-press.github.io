@@ -1,10 +1,11 @@
-<center><p><img src="img/IMG-2404.jpg"><p><br>
+<center><p><img src="img/componentesunidos.jpg"><p><br>
 A partir de esta semana, se ha avanzado el desarrollo de la parte de programación y de electrónica. Como se había establecido en la semana anterior, el circuito integrado de los sensores iban a establecerse como módulos secundarios.
 
 <h2>Proceso de realización de módulos secundarios</h2>
-  <center><p><img src="img/IMG-2404.jpg"><p><br>
+  <center><p><img src="img/sensormf01.jpg"><p><br>
 1. Para comenzar, escogimos el sensor de presión MF01 como sensor analógico de nuestro dispositivo. Luego de realizar una programación simple en el programa Arduino, concluimos que el sensor no era lo suficientemente sensible para nuestro rango teórico de trabajo que va de 2kPa a 4kPa (Que es equivalente a 15 a 30mmHg respectivamente).
-
+  
+<center><p><img src="img/galgaextensiometrica.jpg"><p><br>
 2. Buscamos alternativas al sensor MF01, encontrando como posible solución el uso de galgas extensiométricas. Se estudió el arreglo del circuito eléctrico Wheatstone Bridge o puente de Wheastone, el cual se utiliza para determinar cambios relativos en la resistencia de una galga extensiometrica.
 
   <center><p><img src="img/circuitos.jpg"><p><br>
