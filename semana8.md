@@ -6,11 +6,15 @@
 <p>
 
 <img src="http://i67.tinypic.com/2i9i6o9.png" alt="Italian Trulli">
-<p>
 
-<img src="http://i65.tinypic.com/2mmwby9.png" alt="Italian Trulli">
 <h2> MODULO SECUNDARIO </h2>
 Escogimos el sensor de presión MF01 como sensor analógico de nuestro dispositivo. Luego de realizar una programación simple en el programa Arduino, concluimos que el sensor no era lo suficientemente sensible para nuestro rango teórico de trabajo que va de 2 a 4kPa (Que es equivalente a 15 a 30mmHg respectivamente). Buscamos alternativas al sensor MF01, encontrando como posible solución el uso de galgas extensiométricas.
 <p>
+Colocamos una tela de algodón que para evitar algún problema de sudoración e infección en el rostro. Realizamos orificios en el mascara, estos orificios tendrán será ovalares de medidas: 1.6 cm x 0.7 cm aproximadamente.
+Serán 8 orificios, 4 a cada extremo de los lados paralelos del rostro y a la misma altura, ubicados en untos clave. Los cuales servirán para hacer el ajuste de la máscara con el rostro.
+Estos 4 grupos de orificios: - Altura de la parte media del hueso frontal, altura de las cejas, altura del hueso maxilar y altura de la mandíbula.
 
 <img src="http://i63.tinypic.com/2qkno08.png" alt="Italian Trulli">
+<p>
+
+<img src="http://i65.tinypic.com/2mmwby9.png" alt="Italian Trulli">
