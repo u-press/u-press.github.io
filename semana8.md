@@ -6,6 +6,11 @@
 <p>
 
 <img src="http://i67.tinypic.com/2i9i6o9.png" alt="Italian Trulli">
+<p>
 
+<img src="http://i65.tinypic.com/2mmwby9.png" alt="Italian Trulli">
+<h2> MODULO SECUNDARIO </h2>
+Escogimos el sensor de presión MF01 como sensor analógico de nuestro dispositivo. Luego de realizar una programación simple en el programa Arduino, concluimos que el sensor no era lo suficientemente sensible para nuestro rango teórico de trabajo que va de 2 a 4kPa (Que es equivalente a 15 a 30mmHg respectivamente). Buscamos alternativas al sensor MF01, encontrando como posible solución el uso de galgas extensiométricas.
+<p>
 
-
+<img src="http://i63.tinypic.com/2qkno08.png" alt="Italian Trulli">
